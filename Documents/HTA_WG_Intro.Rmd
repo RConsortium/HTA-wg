@@ -6,7 +6,7 @@ The purpose of this document is to provide a description of the HTA WG set-up un
 
 ## R Consortium HTA WG
 
-### Motivation 
+### Motivation
 Health Technology Assessment (HTA) helps decision-makers determine which medical technologies and treatments are effective and worth paying for. It can help ensure that the right treatments reach the right patients at the right time by assessing clinical evidence and economic evaluations to inform policy making about reimbursement and market access.
 
 Recent policy changes, like the EU HTA Regulation, require pharmaceutical companies to face stricter standards and shorter deadlines for submitting evidence. At the same time, HTA authorities must review an increasing number of complex analyses. Additionally, there is pressure on academia to provide easy-to-use HTA software and tools.
@@ -35,7 +35,7 @@ Focus areas
   * Develop pilot studies to test and refine open source R-based tools and frameworks
 * Pursue collaborative efforts with HTA authorities to validate these tools, demonstrating their value in real-world HTA scenarios.
 
-## Initial workstreams [draft] 
+## Initial workstreams [draft]
 
 ### Workstream 1: Stakeholder and Landscape Mapping & Opportunity Assessment
 
@@ -52,10 +52,10 @@ Focus areas
   * Create a visual representation of the landscape to identify overlaps and gaps.
 * Opportunity Assessment:
   * Evaluate ongoing and past R-related initiatives by R Consortium and others to highlight successful approaches and unmet needs.
-  * Closely engage with stakeholders, through surveys, interviews and other means, to gather insights on needs from open-source HTA analytics software, and current usage and perceptions around R.        	
+  * Closely engage with stakeholders, through surveys, interviews and other means, to gather insights on needs from open-source HTA analytics software, and current usage and perceptions around R.	
 * Strategic Planning:
   * Analyze collected data to identify high-impact opportunities for collaboration and engagement.
-  * Develop a strategic plan that outlines key connections and potential collaborative projects. 
+  * Develop a strategic plan that outlines key connections and potential collaborative projects.
 
 **Expected outcome:** 
 A conference presentation or whitepaper summarizing the current landscape, key stakeholders, and strategic opportunities for collaboration and alignment
