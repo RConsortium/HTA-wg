@@ -1,0 +1,105 @@
+*This is the version of the Google Doc HTA WG Introduction modified by Dominic Muston and circulated as a MS Word document in his group email of September 4, 2024.*
+
+## Purpose: 
+
+The purpose of this document is to provide a description of the HTA WG set-up under the R Consortium, and introduce its planned Focus Areas and Workstreams. Versions of this document may be publicly released on a WG website or in abbreviated form via social media.
+
+## R Consortium HTA WG
+
+### Motivation 
+Health Technology Assessment (HTA) helps decision-makers determine which medical technologies and treatments are effective and worth paying for. It can help ensure that the right treatments reach the right patients at the right time by assessing clinical evidence and economic evaluations to inform policy making about reimbursement and market access.
+
+Recent policy changes, like the EU HTA Regulation, require pharmaceutical companies to face stricter standards and shorter deadlines for submitting evidence. At the same time, HTA authorities must review an increasing number of complex analyses. Additionally, there is pressure on academia to provide easy-to-use HTA software and tools.
+
+These developments create an opportunity for a more unified approach to analytics among the different stakeholders involved in producing and assessing evidence for HTA. R is already an established tool in HTA work across industry, academia, and HTA bodies. However, the degree and type of adoption varies widely due to the heterogeneous stakeholder landscape.
+
+The R Consortium HTA working group aims to use R as a platform to connect diverse perspectives on HTA analytics, working towards:
+* Improved efficiency and transparency
+* Harmonized methodologies
+* Reduced duplication
+
+As a non-profit organization, the R Consortium has extensive experience in leading collaborations among varied stakeholder groups, including regulatory bodies. This makes the R Consortium HTA working group uniquely positioned to represent different perspectives clearly. By fostering open dialogue and cooperation among all stakeholders, including HTA authorities, industry and academia, we aim to make significant progress in the conduct and evaluation of HTA analytics for clinical and economic assessments.
+
+### Mission
+To cultivate a more collaborative and unified approach to Health Technology Assessment (HTA) analytics work that leverages the power of R to enhance transparency, efficiency, and consistency, accelerating the delivery of innovative treatments to patients.
+
+Focus areas
+* Foster Collaboration and Knowledge Sharing:
+  * Understanding the needs of all stakeholders for HTA analytics, and where the use of R may best fit
+  * Promote the common goal of delivering HTA analytics work that meets those needs and efficiently utilizes R
+  * Become a central hub for connecting existing and new R initiatives in the HTA space, ensuring efficient and unified efforts.
+* Develop and Document Best Practices:
+  * Develop and disseminate best practices for using R in HTA analytics work for clinical and economic evaluation
+  * Promote transparency and reproducibility in HTA analytics work
+* Explore Pilot Studies with HTA authorities
+  * Develop pilot studies to test and refine open source R-based tools and frameworks
+* Pursue collaborative efforts with HTA authorities to validate these tools, demonstrating their value in real-world HTA scenarios.
+
+## Initial workstreams [draft] 
+
+### Workstream 1: Stakeholder and Landscape Mapping & Opportunity Assessment
+
+**Objective:** To understand the current landscape of HTA analytics, identify key stakeholders, learn their needs from open-source analytics software, and assess opportunities for connection and collaboration so as to guide the community on priority initiatives to pursue.
+
+**Activities**
+
+* Stakeholder Identification:
+  *Identify and categorize key stakeholders, including HTA agencies, academia, industry, regulatory bodies, and other relevant parties.
+  *Develop a comprehensive database of contact information and roles.
+* Landscape Mapping:
+  * Map existing HTA analytics initiatives, particularly those using R.
+  * []
+  * Create a visual representation of the landscape to identify overlaps and gaps.
+* Opportunity Assessment:
+  * Evaluate ongoing and past R-related initiatives by R Consortium and others to highlight successful approaches and unmet needs.
+  * Closely engage with stakeholders, through surveys, interviews and other means, to gather insights on needs from open-source HTA analytics software, and current usage and perceptions around R.        	
+* Strategic Planning:
+  * Analyze collected data to identify high-impact opportunities for collaboration and engagement.
+  * Develop a strategic plan that outlines key connections and potential collaborative projects. 
+
+**Expected outcome:** 
+A conference presentation or whitepaper summarizing the current landscape, key stakeholders, and strategic opportunities for collaboration and alignment
+
+** Supports Focus Area:** 
+Foster Collaboration and Knowledge Sharing; Explore Pilot Studies with HTA authorities
+
+### Workstream 2: Mapping of HTA and Evidence Synthesis-Related R Packages
+
+**Objective:** To create an inventory of R packages related to HTA and evidence synthesis, facilitating their use and integration across different initiatives.
+
+**Activities:**
+
+* Identification of R Packages:
+  * Conduct a thorough review of CRAN, GitHub, and other repositories to identify R packages relevant to HTA and evidence synthesis.
+  * Engage with the HTA community to gather insights and recommendations on useful packages.
+* Categorization and Documentation:
+  * Categorize the identified R packages based on their functionality (e.g., cost-effectiveness analysis, meta-analysis, decision modeling).
+  * Document detailed information for each package, including usage, strengths, and limitations.
+* Development of an overview:
+  * Create an accessible, user-friendly online directory to host the inventory (CRAN view?)
+
+**Expected outcomes:** 
+  * A publicly available inventory of HTA and evidence synthesis-related R packages.
+  * Presentation of the inventory at relevant conferences to raise awareness and promote its use.
+
+**Supports focus area:**
+Develop and Document Best Practices:
+
+**DM thoughts** 
+
+We need some workstreams to support Focus Areas 2 and 3, and workstream 2 seems a bit weak to me – it could be moved into workstream 1 easily.
+
+For FA 2, could we document workstreams and best practices used or recommended by different stakeholders using R for clinical and economic evaluation? What do HTA bodies, industry, industry suppliers, academics propose? This may depend on whether the evaluation comes from the industry side – who may better understand the value of their innovation – or from the academic/HTA side – who may have a clear sense of the elements of value they consider relevant. (I don’t want to go down a rabbit hole of whole disease models since, with one exception, these are not used in evaluations.)
+
+For FA 3, could we flesh out already what a proposed collaboration with a HTA body for a clinical assessment might look like? An economic assessment could be a good pilot too, in due course – but due to EU JCA, I think we might be aligned to start with clinical?
+
+## Social Media announcement
+
+Health Technology Assessment is crucial for informing decisions about reimbursement and market access for new medicines. Initiatives like the EU HTA will introduce stricter standards and shorter deadlines, increasing the need for an advanced, efficient, and unified approach to analytics – benefiting both those who produce and those who assess statistical analyses, and ultimately accelerating the delivery of innovative treatments to patients
+
+R is already an established tool in HTA work but the degree and type of adoption varies significantly across the different stakeholders. There is a need to ‘connect the dots’ to truly leverage the power of R to accelerate the delivery of innovative treatments to patients!
+The new R Consortium HTA Working Group aims to do just that by:
+
+* Foster Collaboration and Knowledge Sharing
+  *Develop and Document Best Practices
+  * Explore Pilot Studies with HTA authorities
