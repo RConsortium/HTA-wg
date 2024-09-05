@@ -1,0 +1,22 @@
+### Minutes of September 5, 2024 HTA WG Meeting
+Minutes by Joseph Rickert
+
+#### Attendees
+* Gregory Chen - MSD
+* Dominic Muston - Merck
+* Anders Gorst-Rasmussen - Novonordisk
+* Joseph Rickert
+
+#### Discussion
+The WG discussed topics in the [HTA_WG_Intro](https://github.com/RConsortium/HTA-wg/blob/main/Documents/HTA_WG_Intro.Rmd) document.
+
+* It was decided to keep both Work stream 1 and Work stream 2
+* With respect to Work stream 2, the WG discussed the pros and cons of pursuing an HTA task view or developing a curated list of R packages for HTA.
+* Long term, the group favors developing a task view along the lines of the  [ClinicalTrials](https://cran.r-project.org/web/views/ClinicalTrials.html) Task View which highlights certain packages in other task views as being important for clinical trials, but then points to the task views in which they are mentioned.
+* The WG decided that a valuable first step would be to develop a curated list of recommended HTA packages along with a list of the criteria for inclusion in the list.
+* The WG agreed that the process of including packages must be fair and transparent.
+
+#### Actions
+
+1. Gregory will reconcile the multiple versions of the HTA Intro Document that are in circulation an update the document linked above.
+2. The group will meet during the Week of September 9th to write the blog post announcing the formation of the WG.
