@@ -1,4 +1,5 @@
 ### Announcing the Health Technology Assessment (HTA) Working Group
+Sep 17, 2024
 
 The R Consortium is pleased to announce a new Working Group (WG) focused on Health Technology Assessment (HTA). The HTA WG has a mission of promoting the use of R in all aspects of HTA analytics, including both clinical assessment and economic evaluation. It aims to build on the success of other R Consortium working groups in bringing together and promoting dialogue between the broadest range of stakeholders from the HTA ecosystem (industry, HTA bodies, academics and others) to identify needs and address challenges through practical tools and pilot exercises.
 
@@ -6,7 +7,7 @@ Health Technology Assessment (HTA) helps decision-makers determine which medical
 
 Recent policy changes, like the EU HTA Regulation, require pharmaceutical companies to face stricter standards and shorter deadlines for submitting evidence. At the same time, HTA authorities must review an increasing number of complex analyses. Lastly, there is pressure on academia to provide easy-to-use HTA software and tools.
 
-Economic analytics will also need to improve, reflecting the greater data transparency within the EU (and possibly beyond) afforded through the legislation, and the desire for more timely and evidence-based decisions on patient access to innovative technologies within national healthcare systems.
+!!! Dom to rethink: Economic analytics will also need to improve, reflecting the greater data transparency within the EU (and possibly beyond) afforded through the legislation, and the desire for more timely and evidence-based decisions on patient access to innovative technologies within national healthcare systems.
 
 Initially, the WG will focus on the following objectives.
 
