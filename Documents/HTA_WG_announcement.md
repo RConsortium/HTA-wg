@@ -21,3 +21,28 @@ Initially, the WG will focus on the following objectives.
   * Use these pilot studies to demonstrate the value and applicability of R in real-world HTA scenarios.
 
 If you think any of this is exciting and would like to become involved, please leave your name and email in issue number xxxx at the HTA GitHub repository.
+
+# Alternative/Anders
+
+We are pleased to announce the new R Consortium HTA working group, with a mission of promoting the use of R in all aspects of the health technology assessment process including both clinical assessment and economic evaluation. 
+
+Health Technology Assessment (HTA) helps decision-makers determine which medical technologies and treatments are effective and worth paying for. It can help ensure that the right treatments reach the right patients at the right time by assessing clinical evidence and economic evaluations to inform policy making about reimbursement and market access.
+
+Recent policy changes, like the EU HTA Regulation, require pharmaceutical companies to face stricter standards and shorter deadlines for submitting evidence. At the same time, HTA authorities must review an increasing number of complex analyses. Lastly, there is pressure on academia to provide easy-to-use HTA software and tools.
+
+R is already an established tool in HTA work but the degree and type of adoption varies significantly across the different stakeholders. There is an urgent need to ‘connect the dots’ to truly leverage the power of R to accelerate the delivery of innovative treatments to patients.
+
+The working group will have the following focus areas:
+
+* Foster Collaboration and Knowledge Sharing:
+  * Understanding the needs of all stakeholders for HTA analytics, and where the use of R may best fit
+  * Promote the common goal of delivering HTA analytics work that meets those needs and efficiently utilizes R
+  * Become a central hub for connecting existing and new R initiatives in the HTA space, ensuring efficient and unified efforts.
+* Develop and Document Best Practices:
+  * Develop and disseminate best practices for using R in HTA analytics work for clinical and economic evaluation
+  * Promote transparency and reproducibility in HTA analytics work
+* Explore Pilot Studies with HTA authorities
+  * Develop pilot studies to test and refine open source R-based tools and frameworks
+* Pursue collaborative efforts with HTA authorities to validate these tools, demonstrating their value in real-world HTA scenarios.
+
+If you think any of this is exciting and would like to become involved, please leave your name and email in issue number xxxx at the HTA GitHub repository.
