@@ -86,6 +86,30 @@ This document is a first draft of what is intended to be a relatively short list
 
 [rmeta](https://cran.r-project.org/package=rmeta) v3.0: Functions for simple fixed and random effects meta-analysis for two-sample comparisons and cumulative meta-analyses. Draws standard summary plots, funnel plots, and computes summaries and tests for association and heterogeneity.
 
+#### Bayesian Meta Analysis
+
+[bamdit](https://CRAN.R-project.org/package=bamdit) v3.4.2: Provides a new class of Bayesian meta-analysis models that incorporates a model for internal and external validity bias making it possible to combine studies of diverse quality and different types, e.g. combining randomized control trials with the results of observational studies.
+
+[CPBayes](https://cran.r-project.org/package=CPBayes) v1.1.0: A Bayesian meta-analysis method for studying cross-phenotype genetic associations which is based on a spike and slab prior. See [Majumdar et al. (2018)](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007139) for the methodology.
+
+[metaBMA](https://cran.r-project.org/package=metaBMA) v0.6.9: Computes the posterior model probabilities for standard meta-analysis models (null model vs. alternative model assuming either fixed- or random-effects, respectively).  See [Gronau et al. (2017)](https://www.tandfonline.com/doi/full/10.1080/23743603.2017.1326760). Also, using pre-compiled Stan models, meta-analysis with continuous and discrete moderators with Jeffreys-Zellner-Siow (JZS) priors can be fitted and tested. For a primer on Bayesian model-averaged meta-analysis, see [Gronau et al. (2021)](https://journals.sagepub.com/doi/10.1177/25152459211031256)
+
+
+[metabup](https://cran.r-project.org/package=metabup) v0.1.3: Contains functions that allow Bayesian meta-analysis with binomial data, counts(y) and total counts (n) or, with user-supplied point estimates and associated variances.More details can be found in [Cahoy and Sedransk (2022)](https://link.springer.com/article/10.1007/s42519-018-0027-2), [Evans and Sedransk (2001)](https://academic.oup.com/biomet/article-abstract/88/3/643/340099?redirectedFrom=fulltext), and [Malec and Sedransk (1992)](https://academic.oup.com/biomet/article-abstract/79/3/593/241066?redirectedFrom=fulltext&login=false). 
+
+
+
+[metapack](https://cran.r-project.org/package=metapack) v0.3: Implements Bayesian meta-analysis as described in [Yao et. al (2015)](https://www.tandfonline.com/doi/full/10.1080/01621459.2015.1006065) and [Li et al. (2021)](https://onlinelibrary.wiley.com/doi/10.1002/sim.8983).
+
+[MetaStan](https://cran.r-project.org/package=MetaStan) v1.0.0: Performs Bayesian meta-analysis, meta-regression and model-based meta-analysis using [Stan](https://mc-stan.org/). Includes binomial-normal hierarchical models and option to use weakly informative priors for the heterogeneity parameter and the treatment effect parameter which are described in [Guenhan, Roever, and Friede (2020)](https://onlinelibrary.wiley.com/doi/10.1002/jrsm.1370). 
+
+[publipha](https://cran.r-project.org/package=publipha) v0.1.2: Implements tools for Bayesian estimation of meta-analysis models that account for publications bias or p-hacking including a variant of the p-value based selection model of [Hedges (1992)](https://projecteuclid.org/journals/statistical-science/volume-7/issue-2/Modeling-Publication-Selection-Effects-in-Meta-Analysis/10.1214/ss/1177011364.full) and the mixture of truncated normals model for p-hacking described in [Moss and De Bin (2019)](https://arxiv.org/abs/1911.12445).
+
+[ra4bayesmata](https://cran.r-project.org/package=ra4bayesmeta) v1.0-8: Provides functions for performing a principled reference analysis in the Bayesian normal-normal hierarchical model used for Bayesian meta-analysis, as described in [Ott, Plummer and Roos (2021)](https://onlinelibrary.wiley.com/doi/10.1002/sim.9076). 
+
+
+
+
 ### Survival Analysis
 
 [easysurv](https://cran.r-project.org/web/packages/easysurv/index.html#:~:text=https%3A//CRAN.R%2Dproject.org/package%3Deasysurv) v2.0.1: Inspect survival data, plot Kaplan-Meier curves, assess the proportional hazards assumption, fit parametric survival models, predict and plot survival and hazards, and export the outputs to Excel. A simple interface for fitting survival models using `flexsurv`.
