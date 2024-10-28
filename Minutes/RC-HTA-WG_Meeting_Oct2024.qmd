@@ -1,0 +1,94 @@
+---
+title: "R Consortium HTA Working Group"
+subtitle: "(Joint Meeting at Oct 2024)"
+format:
+  revealjs: 
+    theme: simple
+    footer: "RC-HTA-WG"
+editor: visual
+---
+
+## Agenda
+
+*	Welcome from co-chairs (Gregory and Anders)
+*	Vision for the working group
+*	How could we work together: structure, managing engagement, format of the meetings
+*	Two initial proposed workstreams 
+*	Next steps
+
+
+## Welcome from co-chairs
+
+When you click the **Render** button a document will be generated that includes:
+
+-   Content authored with markdown
+-   Output from executable code
+
+## Vision for the working group
+
+
+
+## How could we work together
+
+
+
+## Two initial workstreams/projects
+1.  Stakeholder and landscape mapping, and opportunity assessment (Anders & Dom)
+2.  Mapping of packages related to HTA and evidence synthesis (Greg & Joseph)
+
+## Workstream: Stakeholder and landscape mapping and opportunity assessment
+**Objective:** To understand the current landscape of HTA analytics, identify key stakeholders, learn their needs from open-source analytics software, and assess opportunities for connection and collaboration so as to guide the community on priority initiatives to pursue.
+
+**Activities**
+
+* Stakeholder Identification:
+  *Identify and categorize key stakeholders, including HTA agencies, academia, industry, regulatory bodies, and other relevant parties.
+  *Develop a comprehensive database of contact information and roles.
+* Landscape Mapping:
+  * Map existing HTA analytics initiatives, particularly those using R.
+  * []
+  * Create a visual representation of the landscape to identify overlaps and gaps.
+* Opportunity Assessment:
+  * Evaluate ongoing and past R-related initiatives by R Consortium and others to highlight successful approaches and unmet needs.
+  * Closely engage with stakeholders, through surveys, interviews and other means, to gather insights on needs from open-source HTA analytics software, and current usage and perceptions around R.	
+* Strategic Planning:
+  * Analyze collected data to identify high-impact opportunities for collaboration and engagement.
+  * Develop a strategic plan that outlines key connections and potential collaborative projects.
+
+**Expected outcome:** 
+A conference presentation or whitepaper summarizing the current landscape, key stakeholders, and strategic opportunities for collaboration and alignment
+
+** Supports Focus Area:** 
+Foster Collaboration and Knowledge Sharing; Explore Pilot Studies with HTA authorities
+
+
+## Workstream: Mapping of packages related to HTA and evidence synthesis
+**Objective:** To create an inventory of R packages related to HTA and evidence synthesis, facilitating their use and integration across different initiatives.
+
+**Activities:**
+
+* Identification of R Packages:
+  * Conduct a thorough review of CRAN, GitHub, and other repositories to identify R packages relevant to HTA and evidence synthesis.
+  * Engage with the HTA community to gather insights and recommendations on useful packages.
+* Categorization and Documentation:
+  * Categorize the identified R packages based on their functionality (e.g., cost-effectiveness analysis, meta-analysis, decision modeling).
+  * Document detailed information for each package, including usage, strengths, and limitations.
+* Development of an overview:
+  * Create an accessible, user-friendly online directory to host the inventory (CRAN view?)
+
+**Expected outcomes:** 
+  * A publicly available inventory of HTA and evidence synthesis-related R packages.
+  * Presentation of the inventory at relevant conferences to raise awareness and promote its use.
+
+**Supports focus area:**
+Develop and Document Best Practices:
+
+**DM thoughts** 
+
+We need some workstreams to support Focus Areas 2 and 3, and workstream 2 seems a bit weak to me – it could be moved into workstream 1 easily.
+
+For FA 2, could we document workstreams and best practices used or recommended by different stakeholders using R for clinical and economic evaluation? What do HTA bodies, industry, industry suppliers, academics propose? This may depend on whether the evaluation comes from the industry side – who may better understand the value of their innovation – or from the academic/HTA side – who may have a clear sense of the elements of value they consider relevant. (I don’t want to go down a rabbit hole of whole disease models since, with one exception, these are not used in evaluations.)
+
+For FA 3, could we flesh out already what a proposed collaboration with a HTA body for a clinical assessment might look like? An economic assessment could be a good pilot too, in due course – but due to EU JCA, I think we might be aligned to start with clinical?
+
+## Next Steps
