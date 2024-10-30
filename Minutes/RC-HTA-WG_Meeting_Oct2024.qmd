@@ -19,8 +19,10 @@ fontsize: 16pt
 ## Welcome from co-chairs
 
 -   Gregory Chen
-    -   xxx
-    -   yyy
+    -   Principal Statistician in HTA Statistics team, MSD; lead of HTA-R workstream in openstatsware
+    -   R user since 2009; worked in various sectors in pharma (manufacture, lab testing and bioassay, QC & QA, clinical, now HTA)
+    -   What motivated me to join: knowledge exchange and collaboration in open source space; development of a sustainable R ecosystem supported by a HTA community 
+    
 -   Anders Gorst-Rasmussen
     -   Head of Biostatistics HTA, Novo Nordisk; co-chair HTA Special Interest Group, European Federation of Statisticians in the Pharmaceutical Industry (EFSPI)
     -   Statistician by training, worked a lot with R in the past
