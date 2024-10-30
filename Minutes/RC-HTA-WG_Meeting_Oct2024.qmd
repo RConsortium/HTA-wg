@@ -11,12 +11,23 @@ fontsize: 16pt
 
 ## Agenda
 
-1.  Welcome from co-chairs (Gregory and Anders)
-2.  Vision for the working group
-3.  Two initial proposed workstreams
-4.  How we work together: managing engagement, format of the meetings, how to raise new ideas
+-   Welcome from co-chairs
+-   Vision for the working group
+-   Two proposed workstreams
+-   Next steps and how to contribute
+
+## Welcome from co-chairs
+
+-   Gregory Chen
+    -   xxx
+    -   yyy
+-   Anders Gorst-Rasmussen
+    -   Head of Biostatistics HTA, Novo Nordisk; co-chair HTA Special Interest Group, European Federation of Statisticians in the Pharmaceutical Industry (EFSPI)
+    -   Statistician by training, worked a lot with R in the past
+    -   What motivated me to join: R as an enabler for more transparency and collaboration across stakeholders
 
 ## Vision for the working group
+
 ### Evolving policy landscape as a catalyst for a more unified approach to HTA analytics through R
 
 :::::: columns
@@ -70,12 +81,10 @@ landscape...*
 :::
 ::::::
 
-## Two initial workstreams/projects
 
-1.  Stakeholder and landscape mapping, and opportunity assessment (Anders & Dom)
-2.  Mapping of packages related to HTA and evidence synthesis (Greg & Joseph)
+## Workstream 1
 
-## Workstream: Stakeholder and landscape mapping and opportunity assessment
+### Stakeholder and landscape mapping and opportunity assessment
 
 :::::: columns
 ::: {.column width="55%"}
@@ -84,57 +93,60 @@ landscape...*
 
 :::: {.column width="45%"}
 ::: {style="font-size: 80%;"}
-### WHAT IS THE WORKSTREAM SOLVING FOR?
+### What is the workstream solving for?
 
 R is an established tool in HTA work but the degree and type of adoption varies significantly across stakeholders. There is a need for strengthening the shared understanding of challenges and solutions to accelerate the use of R in HTA production work
 
-### OBJECTIVE
+### Objectives
 
 Map of stakeholders, landscape, and opportunities to guide future R-related initiatives and workstreams
 
-### PROPOSED ACTIVITIES
+### Proposed activities
 
--   Stakeholder identification
--   Landscape and opportunity assessment (focusing on R usage, overlaps, and perceived gaps)
--   Roadmap (outlining key connections and potential collaborative projects)
+1.  Stakeholder identification
+2.  Landscape and opportunity assessment (focusing on R usage, overlaps, and perceived gaps)
+3.  Roadmap (outlining key connections and potential collaborative projects)
 
-### PROPOSED OUTCOME
+### Proposed outcome(s)
 
 Conference presentations and/or whitepaper(s)
 :::
 ::::
 ::::::
 
-## Workstream: Mapping of packages related to HTA and evidence synthesis
+## Workstream 2
 
-**Objective:** To create an inventory of R packages related to HTA and evidence synthesis, facilitating their use and integration across different initiatives.
+### Mapping of HTA Analytics Related R Packages
 
-**Activities:**
+:::::: columns
+::: {.column width="55%"}
+![*In open-source, there is no lack of choices - “What to choose” is the issue!*](RC-HTA-WG_Meeting_Oct2024_files/workstream2_gfx.png)
+:::
 
--   Identification of R Packages:
-    -   Conduct a thorough review of CRAN, GitHub, and other repositories to identify R packages relevant to HTA and evidence synthesis.
-    -   Engage with the HTA community to gather insights and recommendations on useful packages.
--   Categorization and Documentation:
-    -   Categorize the identified R packages based on their functionality (e.g., cost-effectiveness analysis, meta-analysis, decision modeling).
-    -   Document detailed information for each package, including usage, strengths, and limitations.
--   Development of an overview:
-    -   Create an accessible, user-friendly online directory to host the inventory (CRAN view?)
+:::: {.column width="45%"}
+::: {style="font-size: 75%;"}
+### Objectives
 
-**Expected outcomes:** \* A publicly available inventory of HTA and evidence synthesis-related R packages. \* Presentation of the inventory at relevant conferences to raise awareness and promote its use.
+To develop a comprehensive inventory of R packages related to HTA analytics with useful information and application examples, facilitating their use and integration into daily practice
 
-**Supports focus area:** Develop and Document Best Practices:
+### Proposed Activities
 
-**DM thoughts**
+-   Identify and categorize relevant HTA analytics R packages available in the open-source domain, with useful annotation
+-   Establish and apply criteria to evaluate and monitor the production readiness of identified HTA R packages
+-   Work with other initiatives (e.g. openstatsware, R for HTA consortium) to fill gaps of high-quality tools in key areas of HTA analytics
+-   Fill in gaps of document and application examples for highly production-ready HTA R packages
+-   Develop an online directory to host these work and facilitate ongoing engagement with the HTA R community
 
-We need some workstreams to support Focus Areas 2 and 3, and workstream 2 seems a bit weak to me – it could be moved into workstream 1 easily.
+### Proposed Outcomes
 
-For FA 2, could we document workstreams and best practices used or recommended by different stakeholders using R for clinical and economic evaluation? What do HTA bodies, industry, industry suppliers, academics propose? This may depend on whether the evaluation comes from the industry side – who may better understand the value of their innovation – or from the academic/HTA side – who may have a clear sense of the elements of value they consider relevant. (I don’t want to go down a rabbit hole of whole disease models since, with one exception, these are not used in evaluations.)
+A publicly accessible and user-friendly directory offering a categorized inventory of HTA analytic-related R packages with annotation, practical examples, assessment report of production readiness evaluated based on transparent criteria
+:::
+::::
+::::::
 
-For FA 3, could we flesh out already what a proposed collaboration with a HTA body for a clinical assessment might look like? An economic assessment could be a good pilot too, in due course – but due to EU JCA, I think we might be aligned to start with clinical?
+## Next steps and how to contribute
 
-## How we work together
-
--   Introduction about yourself (very briefly)
--   Next meeeing at Nov 27 ??, Monthly meeting in 2025
--   Using Github issues or discussion in between
--   What are you thoughts on the two proposed projects, or any new ideas?
+-   `RConsortium/HTA-wg` github site as our collaboration space
+-   Introduce yourself briefly, by updating the comment on the github issue that you used to sign up
+-   Raise new github issues and use the comment functionality to drive discussion between meetings
+-   Next meeeting **Wednesday November 27, 2024 17:00-18:00 CET**
