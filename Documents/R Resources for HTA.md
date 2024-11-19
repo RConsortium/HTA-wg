@@ -88,7 +88,9 @@ This document is a first draft of what is intended to be a relatively short list
 
 #### Bayesian Meta Analysis
 
-[bamdit](https://CRAN.R-project.org/package=bamdit) v3.4.2: Provides a new class of Bayesian meta-analysis models that incorporates a model for internal and external validity bias making it possible to combine studies of diverse quality and different types, e.g. combining randomized control trials with the results of observational studies.
+[bamdit](https://CRAN.R-project.org/package=bamdit) v3.4.2: Provides a new class of Bayesian meta-analysis models that incorporates a model for internal and external validity bias making it possible to combine studies of diverse quality and different types, e.g. combining randomized control trials with the results of observational studies. 
+
+[brms](https://cran.r-project.org/package=brms) v2.22.0: Implements the capability to fit a full range of Bayesian multivariate, multilevel models using [STAN](https://mc-stan.org/). Models include multi-level linear, robust linear, count data, survival, response times, ordinal, zero-inflated, hurdle, and even self-defined mixture models, and models with both theory-driven and data-driven non-linear terms, auto-correlation structures, censoring and truncation, meta-analytic standard errors, and quite a few more. See [Bǔrkner (2017)](https://www.jstatsoft.org/article/view/v080i01).
 
 [CPBayes](https://cran.r-project.org/package=CPBayes) v1.1.0: A Bayesian meta-analysis method for studying cross-phenotype genetic associations which is based on a spike and slab prior. See [Majumdar et al. (2018)](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007139) for the methodology.
 
