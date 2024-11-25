@@ -105,7 +105,7 @@ Conference presentations and/or whitepaper(s)
 
 ## Workstream 2: Recap
 
-### Mapping of HTA Analytics Related R Packages
+### R Resources and Education
 
 ::: columns
 ::: {.column width="55%"}
@@ -120,11 +120,20 @@ To develop a comprehensive inventory of R packages related to HTA analytics with
 
 ### Proposed Activities
 
+#### Cataloging R Packages and other R Resources
+
 -   Identify and categorize relevant HTA analytics R packages available in the open-source domain, with useful annotation
 -   Establish and apply criteria to evaluate and monitor the production readiness of identified HTA R packages
 -   Work with other initiatives (e.g. openstatsware, R for HTA consortium) to fill gaps of high-quality tools in key areas of HTA analytics
 -   Fill in gaps of document and application examples for highly production-ready HTA R packages
 -   Develop an online directory to host these work and facilitate ongoing engagement with the HTA R community
+
+#### R Education
+
+- Engage the community in developing educational materials to demonstrate state of the art HTA analyses using R and the resources identified above.
+- Educational materials should include meta-anaysis, economic modeling and decision analysis
+- Identify and create, if necessary, the appropriate channels for promoting educational materals including, webinars, blog posts, and social media outreach
+- demonstrate strategie for incorporating R into existing HTA workflows
 
 ## Workstream 2: Update
 
@@ -133,7 +142,9 @@ To develop a comprehensive inventory of R packages related to HTA analytics with
 
 ### Proposed Outcomes
 
-A publicly accessible and user-friendly directory offering a categorized inventory of HTA analytic-related R packages with annotation, practical examples, assessment report of production readiness evaluated based on transparent criteria
+- A publicly accessible and user-friendly directory offering a categorized inventory of HTA analytic-related R packages with annotation, practical examples, assessment report of production readiness evaluated based on transparent criteria
+- A self sustaining network of educational and promotional activities
+
 :::
 :::
 :::
