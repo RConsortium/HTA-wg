@@ -1,0 +1,145 @@
+---
+title: "R Consortium HTA Working Group"
+subtitle: "2nd meeting, 25 November 2024"
+format:
+  revealjs: 
+    theme: simple
+    footer: "RC-HTA-WG"
+editor: visual
+fontsize: 16pt
+---
+
+## Agenda
+
+-   Briefly Recap - 5 mins 
+-   Workstream 1 (Anders, Dominic) - 40 mins
+-   Workstream 2 (Gregory, Joe) - 10 mins
+-   Closing - 5 mins
+
+## Briefly Recap: Vision for the working group
+
+### Evolving policy landscape as a catalyst for a more unified approach to HTA analytics through R
+
+::: columns
+::: {.column width="30%"}
+```{=html}
+<div style="position: relative; height: 300px;">
+   <div style="position: absolute; center: 0;height:300px;">
+    <img src="archive_assets/RC-HTA-WG_Meeting_Oct2024_files/jigsaw1_gfx.png" >
+   </div>
+</div>
+```
+*From a heterogenous landscape...*
+:::
+
+::: {.column width="30%"}
+```{=html}
+<div style="position: relative; height: 300px; ">
+   <div style="position: absolute; height:300px;">
+    <img src="archive_assets/RC-HTA-WG_Meeting_Oct2024_files/jigsaw2_gfx.png">
+   </div>
+</div>
+```
+*...to R as a platform to connect diverse perspectives on HTA analytics...*
+:::
+
+::: {.column width="30%"}
+```{=html}
+<div style="position: relative; height: 300px;">
+   <div style="position: absolute; top: 60px; height:240px;">
+```
+-   Improved efficiency and transparency
+-   Reduced duplication
+-   Harmonized methodologies
+
+```{=html}
+   </div>
+</div>
+```
+*..accelerating the delivery of innovative treatments to patients*
+:::
+:::
+
+## Workstream 1: Recap
+
+### Stakeholder and landscape mapping and opportunity assessment
+
+::: columns
+::: {.column width="55%"}
+![](archive_assets/RC-HTA-WG_Meeting_Oct2024_files/workstream1_gfx.png)
+:::
+
+::: {.column width="45%"}
+::: {style="font-size: 80%;"}
+### What is the workstream solving for?
+
+R is an established tool in HTA work but the degree and type of adoption varies significantly across stakeholders. There is a need for strengthening the shared understanding of challenges and solutions to accelerate the use of R in HTA production work
+
+### Objectives
+
+Map of stakeholders, landscape, and opportunities to guide future R-related initiatives and workstreams
+
+### Proposed activities
+
+1.  Stakeholder identification
+2.  Landscape and opportunity assessment (focusing on R usage, overlaps, and perceived gaps)
+3.  Roadmap (outlining key connections and potential collaborative projects)
+
+### Proposed outcome(s)
+
+Conference presentations and/or whitepaper(s)
+:::
+:::
+:::
+
+## Workstream 2: Update
+
++ opportunities: presentation about this HTA-R WG in brussel
++ stakeholder identification, what questions we need to ask to get to those learnings:
+  - “Many” = HTAs who accept and review submissions from manufacturers = All EU27 national HTAs, US ICER, Canada x2, UK NICE and SMC, Australia PBAC + at least a few from LATAM and Asia (can get advice here).
++ set up a in-meeting poll or discussion to collect feedback from the participants?
+  - strategically about how we can incentivize more HTA body participation, how can our WG help assessors optimize their processes + providing them with opportunities for professional development
+  - what do you need from an analytics platform or the reports/deliverables it can generate, and to what extent do current technologies (including R) address those? 
+  - To what extent do you have preferences or are you agnostic about technology used?
+
+
+## Workstream 2: Recap
+
+### Mapping of HTA Analytics Related R Packages
+
+::: columns
+::: {.column width="55%"}
+![*In open-source, usually the problem is not lack of choices - “What to choose” is the issue!*](archive_assets/RC-HTA-WG_Meeting_Oct2024_files/workstream2_gfx.png)
+:::
+
+::: {.column width="45%"}
+::: {style="font-size: 75%;"}
+### Objectives
+
+To develop a comprehensive inventory of R packages related to HTA analytics with useful information and application examples, facilitating their use and integration into daily practice
+
+### Proposed Activities
+
+-   Identify and categorize relevant HTA analytics R packages available in the open-source domain, with useful annotation
+-   Establish and apply criteria to evaluate and monitor the production readiness of identified HTA R packages
+-   Work with other initiatives (e.g. openstatsware, R for HTA consortium) to fill gaps of high-quality tools in key areas of HTA analytics
+-   Fill in gaps of document and application examples for highly production-ready HTA R packages
+-   Develop an online directory to host these work and facilitate ongoing engagement with the HTA R community
+
+## Workstream 2: Update
+
+(Greg & Joe)
+
+
+### Proposed Outcomes
+
+A publicly accessible and user-friendly directory offering a categorized inventory of HTA analytic-related R packages with annotation, practical examples, assessment report of production readiness evaluated based on transparent criteria
+:::
+:::
+:::
+
+## Closing
+
++ Reminder: Introduce yourself briefly, by updating the comment on the github issue that you used to sign up
++ Reminder: Raise new github issues and use the comment functionality to drive discussion between meetings
++ Next meeting **January, 2025 17:00-18:00 CET**
