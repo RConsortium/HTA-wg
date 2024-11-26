@@ -19,10 +19,9 @@ fontsize: 16pt
 ## Welcome from co-chairs
 
 -   Gregory Chen
-    -   Principal Statistician in HTA Statistics team, MSD; lead of HTA-R workstream in openstatsware (check out [https://github.com/hta-pharma/](https://github.com/hta-pharma/]))
+    -   Principal Statistician in HTA Statistics team, MSD; lead of HTA-R workstream in openstatsware (check out [https://github.com/hta-pharma/](https://github.com/hta-pharma/%5D))
     -   R user since 2009; worked in various sectors in pharma (manufacture, lab testing and bioassay, QC & QA, clinical, now HTA)
-    -   What motivated me to join: knowledge exchange and collaboration in open source space; development of a sustainable R ecosystem supported by a HTA community 
-    
+    -   What motivated me to join: knowledge exchange and collaboration in open source space; development of a sustainable R ecosystem supported by a HTA community
 -   Anders Gorst-Rasmussen
     -   Head of Biostatistics HTA, Novo Nordisk; co-chair HTA Special Interest Group, European Federation of Statisticians in the Pharmaceutical Industry (EFSPI)
     -   Statistician by training, worked a lot with R in the past
@@ -32,11 +31,8 @@ fontsize: 16pt
 
 ### Evolving policy landscape as a catalyst for a more unified approach to HTA analytics through R
 
-:::::: columns
-
-::: {.column width="30%" } 
-
-
+::: columns
+::: {.column width="30%"}
 ```{=html}
 <div style="position: relative; height: 300px;">
    <div style="position: absolute; center: 0;height:300px;">
@@ -44,14 +40,10 @@ fontsize: 16pt
    </div>
 </div>
 ```
-*From a heterogenous 
-landscape...*
-
+*From a heterogenous landscape...*
 :::
 
-::: {.column width="30%" }
-
-
+::: {.column width="30%"}
 ```{=html}
 <div style="position: relative; height: 300px; ">
    <div style="position: absolute; height:300px;">
@@ -60,40 +52,35 @@ landscape...*
 </div>
 ```
 *...to R as a platform to connect diverse perspectives on HTA analytics...*
-
-
 :::
 
 ::: {.column width="30%"}
-
 ```{=html}
 <div style="position: relative; height: 300px;">
    <div style="position: absolute; top: 60px; height:240px;">
 ```
-- Improved efficiency and transparency
-- Reduced duplication
-- Harmonized methodologies
+-   Improved efficiency and transparency
+-   Reduced duplication
+-   Harmonized methodologies
+
 ```{=html}
    </div>
 </div>
 ```
 *..accelerating the delivery of innovative treatments to patients*
-
-
 :::
-::::::
-
+:::
 
 ## Workstream 1
 
 ### Stakeholder and landscape mapping and opportunity assessment
 
-:::::: columns
+::: columns
 ::: {.column width="55%"}
 ![](RC-HTA-WG_Meeting_Oct2024_files/workstream1_gfx.png)
 :::
 
-:::: {.column width="45%"}
+::: {.column width="45%"}
 ::: {style="font-size: 80%;"}
 ### What is the workstream solving for?
 
@@ -113,19 +100,19 @@ Map of stakeholders, landscape, and opportunities to guide future R-related ini
 
 Conference presentations and/or whitepaper(s)
 :::
-::::
-::::::
+:::
+:::
 
 ## Workstream 2
 
 ### Mapping of HTA Analytics Related R Packages
 
-:::::: columns
+::: columns
 ::: {.column width="55%"}
 ![*In open-source, usually the problem is not lack of choices - “What to choose” is the issue!*](RC-HTA-WG_Meeting_Oct2024_files/workstream2_gfx.png)
 :::
 
-:::: {.column width="45%"}
+::: {.column width="45%"}
 ::: {style="font-size: 75%;"}
 ### Objectives
 
@@ -143,8 +130,8 @@ To develop a comprehensive inventory of R packages related to HTA analytics with
 
 A publicly accessible and user-friendly directory offering a categorized inventory of HTA analytic-related R packages with annotation, practical examples, assessment report of production readiness evaluated based on transparent criteria
 :::
-::::
-::::::
+:::
+:::
 
 ## Next steps and how to contribute
 

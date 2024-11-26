@@ -1,6 +1,6 @@
 ---
 title: "R Consortium HTA Working Group"
-subtitle: "2nd meeting, 25 November 2024"
+subtitle: "2nd meeting, 27 November 2024"
 format:
   revealjs: 
     theme: simple
@@ -11,7 +11,7 @@ fontsize: 16pt
 
 ## Agenda
 
--   Briefly Recap - 5 mins 
+-   Briefly Recap - 5 mins
 -   Workstream 1 (Anders, Dominic) - 40 mins
 -   Workstream 2 (Gregory, Joe) - 10 mins
 -   Closing - 5 mins
@@ -92,20 +92,20 @@ Conference presentations and/or whitepaper(s)
 :::
 :::
 
-## Workstream 2: Update
+## Workstream 1: Update
 
-+ opportunities: presentation about this HTA-R WG in brussel
-+ stakeholder identification, what questions we need to ask to get to those learnings:
-  - “Many” = HTAs who accept and review submissions from manufacturers = All EU27 national HTAs, US ICER, Canada x2, UK NICE and SMC, Australia PBAC + at least a few from LATAM and Asia (can get advice here).
-+ set up a in-meeting poll or discussion to collect feedback from the participants?
-  - strategically about how we can incentivize more HTA body participation, how can our WG help assessors optimize their processes + providing them with opportunities for professional development
-  - what do you need from an analytics platform or the reports/deliverables it can generate, and to what extent do current technologies (including R) address those? 
-  - To what extent do you have preferences or are you agnostic about technology used?
+-   opportunities: presentation about this HTA-R WG in brussel
+-   stakeholder identification, what questions we need to ask to get to those learnings:
+    +   “Many” = HTAs who accept and review submissions from manufacturers = All EU27 national HTAs, US ICER, Canada x2, UK NICE and SMC, Australia PBAC + at least a few from LATAM and Asia (can get advice here).
+-   set up a in-meeting poll or discussion to collect feedback from the participants?
+    +   strategically about how we can incentivize more HTA body participation, how can our WG help assessors optimize their processes + providing them with opportunities for professional development
+    +   what do you need from an analytics platform or the reports/deliverables it can generate, and to what extent do current technologies (including R) address those?
+    +   To what extent do you have preferences or are you agnostic about technology used?
 
 
 ## Workstream 2: Recap
 
-### R Resources and Education
+### Mapping of HTA Analytics Related R Packages
 
 ::: columns
 ::: {.column width="55%"}
@@ -120,37 +120,39 @@ To develop a comprehensive inventory of R packages related to HTA analytics with
 
 ### Proposed Activities
 
-#### Cataloging R Packages and other R Resources
-
 -   Identify and categorize relevant HTA analytics R packages available in the open-source domain, with useful annotation
 -   Establish and apply criteria to evaluate and monitor the production readiness of identified HTA R packages
 -   Work with other initiatives (e.g. openstatsware, R for HTA consortium) to fill gaps of high-quality tools in key areas of HTA analytics
 -   Fill in gaps of document and application examples for highly production-ready HTA R packages
 -   Develop an online directory to host these work and facilitate ongoing engagement with the HTA R community
 
-#### R Education
+### Proposed Outcomes
 
-- Engage the community in developing educational materials to demonstrate state of the art HTA analyses using R and the resources identified above.
-- Educational materials should include meta-anaysis, economic modeling and decision analysis
-- Identify and create, if necessary, the appropriate channels for promoting educational materals including, webinars, blog posts, and social media outreach
-- demonstrate strategie for incorporating R into existing HTA workflows
+-   A publicly accessible and user-friendly directory offering a categorized inventory of HTA analytic-related R packages with annotation, practical examples, assessment report of production readiness evaluated based on transparent criteria
+
+:::
+:::
+:::
 
 ## Workstream 2: Update
 
-(Greg & Joe)
+### Share your ideas about this workstream in our Github discussion [here](https://github.com/RConsortium/HTA-wg/discussions/5)
 
+For example: 
 
-### Proposed Outcomes
++ Where to crawl HTA-related open-source R packages? ([CRAN](https://cran.r-project.org/web/packages/available_packages_by_name.html), [R Universe](https://r-universe.dev/search), Github Organizations nominated by this WG in discussion, etc)
++ What could be a good initial bag of labels to search for HTA related? These labels can be used as key words to search for relevant R packages from Open Source R Repository, and later annotation of the packages
++ What aspects of an R package are important to quantify risk and readiness for production usage? see some initial thoughts in https://github.com/RConsortium/HTA-wg/discussions/5
 
-- A publicly accessible and user-friendly directory offering a categorized inventory of HTA analytic-related R packages with annotation, practical examples, assessment report of production readiness evaluated based on transparent criteria
-- A self sustaining network of educational and promotional activities
+### Share Application Examples in Blog and Webinar Formats:
 
-:::
-:::
-:::
++ Beyond Mapping Packages: Simply listing R packages relevant to Health Technology Assessment (HTA) and evaluating their production readiness is insufficient for enhancing R's adoption as an analytical solution.
++ Community Engagement: Actively engage the R community in developing and sharing materials that showcase state-of-the-art HTA analyses using R. This collaborative effort can help demonstrate the practical applicability and robustness of R in the HTA field.
++ Create and Share Content: Consider writing detailed blog posts or signing up for webinars hosted by the R Consortium to discuss how specific tasks or problems in the HTA space, such as meta-analysis or economic modeling, are addressed using R. Highlighting real-world applications can serve as valuable tutorials and enhance the documentation of the R packages involved.
+
 
 ## Closing
 
-+ Reminder: Introduce yourself briefly, by updating the comment on the github issue that you used to sign up
-+ Reminder: Raise new github issues and use the comment functionality to drive discussion between meetings
-+ Next meeting **January, 2025 17:00-18:00 CET**
+-   Reminder: Introduce yourself briefly, by updating the comment on the github issue that you used to sign up
+-   Reminder: Raise new github issues and use the comment functionality to drive discussion between meetings
+-   Proposed meeting time in 2025:  **Thursday in the 3rd week of the month, 17:00-18:00 CET**
