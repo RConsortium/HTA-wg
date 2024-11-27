@@ -7,6 +7,8 @@ Slack Channel: [#wg-hta](https://rconsortium.slack.com/archives/C07C01KNJG6)
 
 Mailing list: WG-HTA@lists.r-consortium.org
 
-WG Lead: Gregory Chen, Anders Gorst-Rasmussen
+WG Lead: 
+- Gregory Chen ([gmail](stat1013@gmail.com),[company email](xiangyi.gregory.chen@msd.com), [linkedin](https://www.linkedin.com/in/xiang-yi-gregory-chen-5ba1a625/)), 
+- Anders Gorst-Rasmussen
 
 R Consortium Help: operations@r-consortium.org 
