@@ -2,7 +2,7 @@
 title: "R Consortium HTA Working Group"
 subtitle: "2nd meeting, 27 November 2024"
 format:
-  revealjs: 
+  revealjs:
     theme: simple
     footer: "RC-HTA-WG"
 editor: visual
@@ -20,8 +20,7 @@ fontsize: 16pt
 
 ### Evolving policy landscape as a catalyst for a more unified approach to HTA analytics through R
 
-:::::: columns
-
+:::: {.columns}
 ::: {.column width="30%"}
 ![](archive_assets/RC-HTA-WG_Meeting_Oct2024_files/jigsaw1_gfx.png)
 
@@ -47,19 +46,19 @@ fontsize: 16pt
 
 *..accelerating the delivery of innovative treatments to patients*
 :::
-::::::
+::::
 
 ## Workstream 1: Recap
 
 ### Stakeholder and landscape mapping and opportunity assessment
 
-:::::: columns
-::: {.column width="55%"}
+::::: {.columns}
+:::: {.column width="55%"}
 ![](archive_assets/RC-HTA-WG_Meeting_Oct2024_files/workstream1_gfx.png)
-:::
+::::
 
 :::: {.column width="45%"}
-::: {style="font-size: 80%;"}
+::: {style="font-size: 80%"}
 ### What is the workstream solving for?
 
 R is an established tool in HTA work but the degree and type of adoption varies significantly across stakeholders. There is a need for strengthening the shared understanding of challenges and solutions to accelerate the use of R in HTA production work
@@ -79,10 +78,11 @@ Map of stakeholders, landscape, and opportunities to guide future R-related ini
 Conference presentations and/or whitepaper(s)
 :::
 ::::
-::::::
+:::::
+
 
 ## EU HTA Stakeholder Network Meeting 29th November 2024
-:::::: columns
+:::::: {.columns}
 ::: {.column width=40%"}
 - Anders representing European Federation of Statisticians in the Pharmaceutical Industry (EFSPI) in the *European Commission EU HTA Stakeholder Network*
   - A construct within the EU HTA regulation
@@ -122,16 +122,6 @@ Conference presentations and/or whitepaper(s)
 HTA bodies | <span style="color:green;">Increase quality & consistency, reduce assessor burden</span> | <span style="color:red;">Creating unwarranted or difficult-to-control precedents</span> |
 :::
 
-
-## Workstream 1: Update
-
--   opportunities: presentation about this HTA-R WG in brussel
--   stakeholder identification, what questions we need to ask to get to those learnings:
-    -   “Many” = HTAs who accept and review submissions from manufacturers = All EU27 national HTAs, US ICER, Canada x2, UK NICE and SMC, Australia PBAC + at least a few from LATAM and Asia (can get advice here).
--   set up a in-meeting poll or discussion to collect feedback from the participants?
-    -   strategically about how we can incentivize more HTA body participation, how can our WG help assessors optimize their processes + providing them with opportunities for professional development
-    -   what do you need from an analytics platform or the reports/deliverables it can generate, and to what extent do current technologies (including R) address those?
-    -   To what extent do you have preferences or are you agnostic about technology used?
 
 ## Workstream 2: Recap
 
