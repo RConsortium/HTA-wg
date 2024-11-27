@@ -11,65 +11,54 @@ fontsize: 16pt
 
 ## Agenda
 
--   Briefly Recap - 5 mins
--   Workstream 1 (Anders, Dominic) - 40 mins
--   Workstream 2 (Gregory, Joe) - 10 mins
--   Closing - 5 mins
+-   Brief recap ~5 mins
+-   Workstream 1 (Anders, Dominic) ~40 mins
+-   Workstream 2 (Gregory, Joe) ~10 mins
+-   Closing ~5 mins
 
-## Briefly Recap: Vision for the working group
+## Brief Recap: Vision for the working group
 
 ### Evolving policy landscape as a catalyst for a more unified approach to HTA analytics through R
 
-::: columns
+:::::: columns
+
 ::: {.column width="30%"}
-```{=html}
-<div style="position: relative; height: 300px;">
-   <div style="position: absolute; center: 0;height:300px;">
-    <img src="archive_assets/RC-HTA-WG_Meeting_Oct2024_files/jigsaw1_gfx.png" >
-   </div>
-</div>
-```
+![](archive_assets/RC-HTA-WG_Meeting_Oct2024_files/jigsaw1_gfx.png)
+
 *From a heterogenous landscape...*
 :::
 
 ::: {.column width="30%"}
-```{=html}
-<div style="position: relative; height: 300px; ">
-   <div style="position: absolute; height:300px;">
-    <img src="archive_assets/RC-HTA-WG_Meeting_Oct2024_files/jigsaw2_gfx.png">
-   </div>
-</div>
-```
+![](archive_assets/RC-HTA-WG_Meeting_Oct2024_files/jigsaw2_gfx.png)
+
 *...to R as a platform to connect diverse perspectives on HTA analytics...*
 :::
 
 ::: {.column width="30%"}
-```{=html}
 <div style="position: relative; height: 300px;">
    <div style="position: absolute; top: 60px; height:240px;">
-```
+
 -   Improved efficiency and transparency
 -   Reduced duplication
 -   Harmonized methodologies
 
-```{=html}
    </div>
 </div>
-```
+
 *..accelerating the delivery of innovative treatments to patients*
 :::
-:::
+::::::
 
 ## Workstream 1: Recap
 
 ### Stakeholder and landscape mapping and opportunity assessment
 
-::: columns
+:::::: columns
 ::: {.column width="55%"}
 ![](archive_assets/RC-HTA-WG_Meeting_Oct2024_files/workstream1_gfx.png)
 :::
 
-::: {.column width="45%"}
+:::: {.column width="45%"}
 ::: {style="font-size: 80%;"}
 ### What is the workstream solving for?
 
@@ -89,30 +78,71 @@ Map of stakeholders, landscape, and opportunities to guide future R-related ini
 
 Conference presentations and/or whitepaper(s)
 :::
+::::
+::::::
+
+## EU HTA Stakeholder Network Meeting 29th November 2024
+:::::: columns
+::: {.column width=40%"}
+- Anders representing European Federation of Statisticians in the Pharmaceutical Industry (EFSPI) in the *European Commission EU HTA Stakeholder Network*
+  - A construct within the EU HTA regulation
+  - Supporting the work of the Coordination Group (CG) and its' subgroups
+  - Currently meeting twice annually
+- Meeting 29th November 2024 in Brussels
+  - EFSPI presentation: *Open-source statistical code and its potential for EU HTA JCA*
 :::
+
+::: {.column width=60%"}
+### Relevance for R Consortium HTA WG?
+- In the EFSPI presentation, RC-HTAWG is framed as a hub to connect across stakeholders and perspectives 
+- Call to action: dialogue with CG and national bodies to catalyze development and impact direction
 :::
+:::::: 
+
+## Discussion
+### A first look at drivers and obstacles of broader adoption of R for HTA
+
+- To better target workstream 1 efforts before starting "for real", we want a high-level idea of different stakeholder perspectives 
+- On the next slide, we have outlined some crude hypotheses - *we want you to challenge them*! 
+- (we will take this to RC-HTAWG Github Discussions page afterwards, to continue offline)
+
+## Hypotheses for discussion
+### Anticipated value driver/obstacles by stakeholder to broader adoption of R for HTA analytics
+
+- Do you agree with the below?
+- What are other relevant hypotheses?
+- Commonalities among drivers or obstacles?
+
+::: {style="font-size: 100%;"}
+| Stakeholder | Anticipated driver | Anticipated obstacle |
+|-|-----|------|
+| Pharma  | <span style="color:green;">Shape more efficient and robust analysis pipelines</span> | <span style="color:red;">Needs substantial investments with questionable return</span>
+| CROs | <span style="color:green;">Improve efficiency and consistency between clients</span> | <span style="color:red;">Increased challenges with differentiation; gained efficiencies may benefit pharma more </span>|
+| Academia | <span style="color:green;">Push novel methodology into 'production' more easily</span> | <span style="color:red;">More contraints  (new packages having to interact with standard packages) </span>|
+HTA bodies | <span style="color:green;">Increase quality & consistency, reduce assessor burden</span> | <span style="color:red;">Creating unwarranted or difficult-to-control precedents</span> |
+:::
+
 
 ## Workstream 1: Update
 
 -   opportunities: presentation about this HTA-R WG in brussel
 -   stakeholder identification, what questions we need to ask to get to those learnings:
-    +   “Many” = HTAs who accept and review submissions from manufacturers = All EU27 national HTAs, US ICER, Canada x2, UK NICE and SMC, Australia PBAC + at least a few from LATAM and Asia (can get advice here).
+    -   “Many” = HTAs who accept and review submissions from manufacturers = All EU27 national HTAs, US ICER, Canada x2, UK NICE and SMC, Australia PBAC + at least a few from LATAM and Asia (can get advice here).
 -   set up a in-meeting poll or discussion to collect feedback from the participants?
-    +   strategically about how we can incentivize more HTA body participation, how can our WG help assessors optimize their processes + providing them with opportunities for professional development
-    +   what do you need from an analytics platform or the reports/deliverables it can generate, and to what extent do current technologies (including R) address those?
-    +   To what extent do you have preferences or are you agnostic about technology used?
-
+    -   strategically about how we can incentivize more HTA body participation, how can our WG help assessors optimize their processes + providing them with opportunities for professional development
+    -   what do you need from an analytics platform or the reports/deliverables it can generate, and to what extent do current technologies (including R) address those?
+    -   To what extent do you have preferences or are you agnostic about technology used?
 
 ## Workstream 2: Recap
 
 ### Mapping of HTA Analytics Related R Packages
 
-::: columns
+:::::: columns
 ::: {.column width="55%"}
 ![*In open-source, usually the problem is not lack of choices - “What to choose” is the issue!*](archive_assets/RC-HTA-WG_Meeting_Oct2024_files/workstream2_gfx.png)
 :::
 
-::: {.column width="45%"}
+:::: {.column width="45%"}
 ::: {style="font-size: 75%;"}
 ### Objectives
 
@@ -129,30 +159,28 @@ To develop a comprehensive inventory of R packages related to HTA analytics with
 ### Proposed Outcomes
 
 -   A publicly accessible and user-friendly directory offering a categorized inventory of HTA analytic-related R packages with annotation, practical examples, assessment report of production readiness evaluated based on transparent criteria
-
 :::
-:::
-:::
+::::
+::::::
 
 ## Workstream 2: Update
 
 ### Share your ideas about this workstream in our Github discussion [here](https://github.com/RConsortium/HTA-wg/discussions/5)
 
-For example: 
+For example:
 
-+ Where to crawl HTA-related open-source R packages? ([CRAN](https://cran.r-project.org/web/packages/available_packages_by_name.html), [R Universe](https://r-universe.dev/search), Github Organizations nominated by this WG in discussion, etc)
-+ What could be a good initial bag of labels to search for HTA related? These labels can be used as key words to search for relevant R packages from Open Source R Repository, and later annotation of the packages
-+ What aspects of an R package are important to quantify risk and readiness for production usage? see some initial thoughts in https://github.com/RConsortium/HTA-wg/discussions/5
+-   Where to crawl HTA-related open-source R packages? ([CRAN](https://cran.r-project.org/web/packages/available_packages_by_name.html), [R Universe](https://r-universe.dev/search), Github Organizations nominated by this WG in discussion, etc)
+-   What could be a good initial bag of labels to search for HTA related? These labels can be used as key words to search for relevant R packages from Open Source R Repository, and later annotation of the packages
+-   What aspects of an R package are important to quantify risk and readiness for production usage? see some initial thoughts in https://github.com/RConsortium/HTA-wg/discussions/5
 
 ### Share Application Examples in Blog and Webinar Formats:
 
-+ Beyond Mapping Packages: Simply listing R packages relevant to Health Technology Assessment (HTA) and evaluating their production readiness is insufficient for enhancing R's adoption as an analytical solution.
-+ Community Engagement: Actively engage the R community in developing and sharing materials that showcase state-of-the-art HTA analyses using R. This collaborative effort can help demonstrate the practical applicability and robustness of R in the HTA field.
-+ Create and Share Content: Consider writing detailed blog posts or signing up for webinars hosted by the R Consortium to discuss how specific tasks or problems in the HTA space, such as meta-analysis or economic modeling, are addressed using R. Highlighting real-world applications can serve as valuable tutorials and enhance the documentation of the R packages involved.
-
+-   Beyond Mapping Packages: Simply listing R packages relevant to Health Technology Assessment (HTA) and evaluating their production readiness is insufficient for enhancing R's adoption as an analytical solution.
+-   Community Engagement: Actively engage the R community in developing and sharing materials that showcase state-of-the-art HTA analyses using R. This collaborative effort can help demonstrate the practical applicability and robustness of R in the HTA field.
+-   Create and Share Content: Consider writing detailed blog posts or signing up for webinars hosted by the R Consortium to discuss how specific tasks or problems in the HTA space, such as meta-analysis or economic modeling, are addressed using R. Highlighting real-world applications can serve as valuable tutorials and enhance the documentation of the R packages involved.
 
 ## Closing
 
 -   Reminder: Introduce yourself briefly, by updating the comment on the github issue that you used to sign up
 -   Reminder: Raise new github issues and use the comment functionality to drive discussion between meetings
--   Proposed meeting time in 2025:  **Thursday in the 3rd week of the month, 17:00-18:00 CET**
+-   Proposed meeting time in 2025: **Thursday in the 3rd week of the month, 17:00-18:00 CET**
