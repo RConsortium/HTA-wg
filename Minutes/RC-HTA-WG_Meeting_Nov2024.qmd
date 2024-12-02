@@ -1,26 +1,67 @@
 ---
 title: "R Consortium HTA Working Group"
 subtitle: "2nd meeting, 27 November 2024"
-format:
-  revealjs:
-    theme: simple
-    footer: "RC-HTA-WG"
 editor: visual
-fontsize: 16pt
+
 ---
+## Attendees
+
+* Ion Agirrezabal
+* Gregory Chen
+* Niall Davison
+* Natalie Dennis
+* Timothy Disher
+* Jack Ettinger
+* Katya Galactionova
+* loana Gulas
+* Lena Hubig
+* Inkyu Kim
+* Sven Klijn
+* Lea
+* Maria Lorenzi
+* Stephen McCawille
+* Niccolò Morgante
+* Dominic Muston
+* Jay Park
+* Anders Gorst-Rasmussen
+* Joseph Rickert
+* Rongzhe
+* Yevgeniy Samyshkin
+* Robert Smith
+* Joshua Soboil
+* Frank Weber
+* Jack Williams
+* Yinan Wul
+* Zuoyi Zhang
+
+## Meeting Recording
+
+The meting was recorded and the [video](https://zoom.us/rec/play/TjVUZPiX9DyeZp1a_gcRbL7IxTo6VJmECwHYgeGF3l0nIQxN2CeATQTK8HjRMUP4_mlooJCoFjC1ITe7.0UA9QxGD3AG77OcY?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fzoom.us%2Frec%2Fshare%2F-VNZN0Uj-iN3E13SgGU4Mzz5mr-lNgDotu5T8XDbW6uP0HZgXFgojSuSa1PMi6pw.5C7qjTUioHd2hJJE) is available.
+
+Video timeline:
+
+* 7:10 Meeting Starts - Opening remarks and news
+* 17:00 Workstream 1 - Overview and issues
+* 21:45 Open discussion - Comments from Audience
+* 48:17 Workstream 2 - Overview and issues
+* 1:00:46 Meeting ends
+
+The next meeting will be in January 2025
+
+The meeting followed the agenda below.
 
 ## Agenda
 
--   Brief recap ~5 mins
--   Workstream 1 (Anders, Dominic) ~40 mins
--   Workstream 2 (Gregory, Joe) ~10 mins
--   Closing ~5 mins
+-   Brief recap \~5 mins
+-   Workstream 1 (Anders, Dominic) \~40 mins
+-   Workstream 2 (Gregory, Joe) \~10 mins
+-   Closing \~5 mins
 
 ## Brief Recap: Vision for the working group
 
 ### Evolving policy landscape as a catalyst for a more unified approach to HTA analytics through R
 
-:::: {.columns}
+::: columns
 ::: {.column width="30%"}
 ![](archive_assets/RC-HTA-WG_Meeting_Oct2024_files/jigsaw1_gfx.png)
 
@@ -34,30 +75,28 @@ fontsize: 16pt
 :::
 
 ::: {.column width="30%"}
-<div style="position: relative; height: 300px;">
-   <div style="position: absolute; top: 60px; height:240px;">
-
+::: {style="position: relative; height: 300px;"}
+::: {style="position: absolute; top: 60px; height:240px;"}
 -   Improved efficiency and transparency
 -   Reduced duplication
 -   Harmonized methodologies
-
-   </div>
-</div>
+:::
+:::
 
 *..accelerating the delivery of innovative treatments to patients*
 :::
-::::
+:::
 
 ## Workstream 1: Recap
 
 ### Stakeholder and landscape mapping and opportunity assessment
 
-::::: {.columns}
-:::: {.column width="55%"}
+::: columns
+::: {.column width="55%"}
 ![](archive_assets/RC-HTA-WG_Meeting_Oct2024_files/workstream1_gfx.png)
-::::
+:::
 
-:::: {.column width="45%"}
+::: {.column width="45%"}
 ::: {style="font-size: 80%"}
 ### What is the workstream solving for?
 
@@ -77,62 +116,64 @@ Map of stakeholders, landscape, and opportunities to guide future R-related ini
 
 Conference presentations and/or whitepaper(s)
 :::
-::::
-:::::
-
+:::
+:::
 
 ## EU HTA Stakeholder Network Meeting 29th November 2024
-:::::: {.columns}
-::: {.column width=40%"}
-- Anders representing European Federation of Statisticians in the Pharmaceutical Industry (EFSPI) in the *European Commission EU HTA Stakeholder Network*
-  - A construct within the EU HTA regulation
-  - Supporting the work of the Coordination Group (CG) and its' subgroups
-  - Currently meeting twice annually
-- Meeting 29th November 2024 in Brussels
-  - EFSPI presentation: *Open-source statistical code and its potential for EU HTA JCA*
+
+::: columns
+::: {.column width="40%\""}
+-   Anders representing European Federation of Statisticians in the Pharmaceutical Industry (EFSPI) in the *European Commission EU HTA Stakeholder Network*
+    -   A construct within the EU HTA regulation
+    -   Supporting the work of the Coordination Group (CG) and its' subgroups
+    -   Currently meeting twice annually
+-   Meeting 29th November 2024 in Brussels
+    -   EFSPI presentation: *Open-source statistical code and its potential for EU HTA JCA*
 :::
 
-::: {.column width=60%"}
+::: {.column width="60%\""}
 ### Relevance for R Consortium HTA WG?
-- In the EFSPI presentation, RC-HTAWG is framed as a hub to connect across stakeholders and perspectives 
-- Call to action: dialogue with CG and national bodies to catalyze development and impact direction
+
+-   In the EFSPI presentation, RC-HTAWG is framed as a hub to connect across stakeholders and perspectives
+-   Call to action: dialogue with CG and national bodies to catalyze development and impact direction
 :::
-:::::: 
+:::
 
 ## Discussion
+
 ### A first look at drivers and obstacles of broader adoption of R for HTA
 
-- To better target workstream 1 efforts before starting "for real", we want a high-level idea of different stakeholder perspectives 
-- On the next slide, we have outlined some crude hypotheses - *we want you to challenge them*! 
-- (we will take this to RC-HTAWG Github Discussions page afterwards, to continue offline)
+-   To better target workstream 1 efforts before starting "for real", we want a high-level idea of different stakeholder perspectives
+-   On the next slide, we have outlined some crude hypotheses - *we want you to challenge them*!
+-   (we will take this to RC-HTAWG Github Discussions page afterwards, to continue offline)
 
 ## Hypotheses for discussion
+
 ### Anticipated value driver/obstacles by stakeholder to broader adoption of R for HTA analytics
 
-- Do you agree with the below?
-- What are other relevant hypotheses?
-- Commonalities among drivers or obstacles?
+-   Do you agree with the below?
+-   What are other relevant hypotheses?
+-   Commonalities among drivers or obstacles?
 
 ::: {style="font-size: 100%;"}
-| Stakeholder | Anticipated driver | Anticipated obstacle |
-|-|-----|------|
-| Pharma  | <span style="color:green;">Shape more efficient and robust analysis pipelines</span> | <span style="color:red;">Needs substantial investments with questionable return</span>
-| CROs | <span style="color:green;">Improve efficiency and consistency between clients</span> | <span style="color:red;">Increased challenges with differentiation; gained efficiencies may benefit pharma more </span>|
-| Academia | <span style="color:green;">Push novel methodology into 'production' more easily</span> | <span style="color:red;">More contraints  (new packages having to interact with standard packages) </span>|
-HTA bodies | <span style="color:green;">Increase quality & consistency, reduce assessor burden</span> | <span style="color:red;">Creating unwarranted or difficult-to-control precedents</span> |
+| Stakeholder | Anticipated driver                                                             | Anticipated obstacle                                                                                          |
+|---------------|--------------------------|--------------------------------|
+| Pharma      | [Shape more efficient and robust analysis pipelines]{style="color:green;"}     | [Needs substantial investments with questionable return]{style="color:red;"}                                  |
+| CROs        | [Improve efficiency and consistency between clients]{style="color:green;"}     | [Increased challenges with differentiation; gained efficiencies may benefit pharma more ]{style="color:red;"} |
+| Academia    | [Push novel methodology into 'production' more easily]{style="color:green;"}   | [More contraints (new packages having to interact with standard packages) ]{style="color:red;"}               |
+| HTA bodies  | [Increase quality & consistency, reduce assessor burden]{style="color:green;"} | [Creating unwarranted or difficult-to-control precedents]{style="color:red;"}                                 |
 :::
-
 
 ## Workstream 2: Recap
 
 ### Mapping of HTA Analytics Related R Packages
 
-:::::: columns
+::: columns
 ::: {.column width="55%"}
 ![*In open-source, usually the problem is not lack of choices - “What to choose” is the issue!*](archive_assets/RC-HTA-WG_Meeting_Oct2024_files/workstream2_gfx.png)
 :::
 
-:::: {.column width="45%"}
+::: {.column width="45%"}
 ::: {style="font-size: 75%;"}
 ### Objectives
 
@@ -150,8 +191,8 @@ To develop a comprehensive inventory of R packages related to HTA analytics with
 
 -   A publicly accessible and user-friendly directory offering a categorized inventory of HTA analytic-related R packages with annotation, practical examples, assessment report of production readiness evaluated based on transparent criteria
 :::
-::::
-::::::
+:::
+:::
 
 ## Workstream 2: Update
 
