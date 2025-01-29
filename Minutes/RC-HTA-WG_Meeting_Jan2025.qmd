@@ -1,0 +1,60 @@
+---
+title: "R Consortium HTA Working Group"
+subtitle: "3rd meeting, 30 January 2025"
+format:
+  revealjs:
+    theme: simple
+    footer: "RC-HTA-WG"
+editor: visual
+fontsize: 16pt
+---
+
+## Agenda
+
+-   Welcome Back! \~2 mins
+-   Update: A Session Proposal submitted to ISPOR \~3 mins
+-   Update: EU HTA Stakeholder Network Meeting (Brussel) in 2024 \~5 mins
+-   WS1: Our Own Webinar Series \~40 min
+-   Closing \~5 mins
+
+## Update: A Session Proposal submitted to ISPOR
+-   Submitted by Dominic Muston (BARDS HEDS, Merck) as the moderator, on behalf of 3 speakers 
+-   Title: Flip (To) The Script: Rethinking Health Economic Modeling for HTAs
+-   Issue (Provide a clear definition of the issue to be presented and debated): There are abundant cases of critical errors in decision-making and reporting resulting from organizations’ dependencies on spreadsheet workbooks for complex data-driven analytics.  Spreadsheets easily become bloated and slow, and results often not reproducible. Nevertheless, spreadsheet modeling is highly prevalent in health economic modeling conducted for and evaluated by Pharma and HTA bodies, with accompanying risks to decision-making. Script-based languages such as R provide potential solutions, but have never had strong endorsement from HTAs, and may not yet fully address others’ needs. This panel will discuss: What issues or concerns have speakers observed in the health economic models developed or reviewed? How do we best mitigate risks in results or decision-making from spreadsheet-induced errors? Does the future lie in script-based modeling (using R or other languages)? What would it take for both HTAs and Pharma to ‘flip to script’? 
+
+## Update: EU HTA Stakeholder Network Meeting (Brussel) in 2024
+
+EU HTA Stakeholder Network Meeting 29th November 2024
+
+::: columns
+::: {.column width="40%\""}
+-   Anders represented European Federation of Statisticians in the Pharmaceutical Industry (EFSPI) in the *European Commission EU HTA Stakeholder Network*
+    -   A construct within the EU HTA regulation
+    -   Supporting the work of the Coordination Group (CG) and its' subgroups
+    -   Currently meeting twice annually
+-   Meeting 29th November 2024 in Brussels
+    -   EFSPI presentation: *Open-source statistical code and its potential for EU HTA JCA*
+:::
+
+::: {.column width="60%\""}
+### Relevance for R Consortium HTA WG?
+
+-   In the EFSPI presentation, RC-HTAWG is framed as a hub to connect across stakeholders and perspectives
+-   Call to action: dialogue with CG and national bodies to catalyze development and impact direction
+:::
+:::
+
+## WS1: Our Own Webinar Series
+
+### Key Topic in 2025: How do we drive external engagement?
+Our own webinar series 
+-  establish a clear branding that serve the objective of WS1
+-  aim to launch 1st webinar in April or May
+-  call for speakers and topics, example: what would it take to make a HTA submission fully in R 
+
+
+## Closing
+
+-   Call out to share your ideas about WS2 in our Github discussion [here](https://github.com/RConsortium/HTA-wg/discussions/5)
+-   Reminder: Raise new github issues and use the comment functionality to drive discussion between meetings
+-   Meeting time in 2025 from Feb onwards: **Thursday in the 3rd week of the month, 17:00-18:00 CET**
