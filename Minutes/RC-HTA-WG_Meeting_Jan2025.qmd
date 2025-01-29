@@ -14,19 +14,20 @@ fontsize: 16pt
 -   Welcome Back! \~2 mins
 -   Update: A Session Proposal submitted to ISPOR \~3 mins
 -   Update: EU HTA Stakeholder Network Meeting (Brussel) in 2024 \~5 mins
--   WS1: Our Own Webinar Series \~40 min
+-   Workstream 1 Proposed Activities \~40 min
 -   Closing \~5 mins
 
 ## Update: A Session Proposal submitted to ISPOR
--   Submitted by Dominic Muston (BARDS HEDS, Merck) as the moderator, on behalf of 3 speakers 
+
+-   Submitted by Dominic Muston (BARDS HEDS, Merck) as the moderator, on behalf of 3 speakers
 -   Title: Flip (To) The Script: Rethinking Health Economic Modeling for HTAs
--   Issue (Provide a clear definition of the issue to be presented and debated): There are abundant cases of critical errors in decision-making and reporting resulting from organizations’ dependencies on spreadsheet workbooks for complex data-driven analytics.  Spreadsheets easily become bloated and slow, and results often not reproducible. Nevertheless, spreadsheet modeling is highly prevalent in health economic modeling conducted for and evaluated by Pharma and HTA bodies, with accompanying risks to decision-making. Script-based languages such as R provide potential solutions, but have never had strong endorsement from HTAs, and may not yet fully address others’ needs. This panel will discuss: What issues or concerns have speakers observed in the health economic models developed or reviewed? How do we best mitigate risks in results or decision-making from spreadsheet-induced errors? Does the future lie in script-based modeling (using R or other languages)? What would it take for both HTAs and Pharma to ‘flip to script’? 
+-   Issue (Provide a clear definition of the issue to be presented and debated): There are abundant cases of critical errors in decision-making and reporting resulting from organizations’ dependencies on spreadsheet workbooks for complex data-driven analytics. Spreadsheets easily become bloated and slow, and results often not reproducible. Nevertheless, spreadsheet modeling is highly prevalent in health economic modeling conducted for and evaluated by Pharma and HTA bodies, with accompanying risks to decision-making. Script-based languages such as R provide potential solutions, but have never had strong endorsement from HTAs, and may not yet fully address others’ needs. This panel will discuss: What issues or concerns have speakers observed in the health economic models developed or reviewed? How do we best mitigate risks in results or decision-making from spreadsheet-induced errors? Does the future lie in script-based modeling (using R or other languages)? What would it take for both HTAs and Pharma to ‘flip to script’?
 
 ## Update: EU HTA Stakeholder Network Meeting (Brussel) in 2024
 
 EU HTA Stakeholder Network Meeting 29th November 2024
 
-::: columns
+::::: columns
 ::: {.column width="40%\""}
 -   Anders represented European Federation of Statisticians in the Pharmaceutical Industry (EFSPI) in the *European Commission EU HTA Stakeholder Network*
     -   A construct within the EU HTA regulation
@@ -42,16 +43,35 @@ EU HTA Stakeholder Network Meeting 29th November 2024
 -   In the EFSPI presentation, RC-HTAWG is framed as a hub to connect across stakeholders and perspectives
 -   Call to action: dialogue with CG and national bodies to catalyze development and impact direction
 :::
-:::
+:::::
 
-## WS1: Our Own Webinar Series
+## Workstream 1 Proposed Activities
 
-### Key Topic in 2025: How do we drive external engagement?
-Our own webinar series 
--  establish a clear branding that serve the objective of WS1
--  aim to launch 1st webinar in April or May
--  call for speakers and topics, example: what would it take to make a HTA submission fully in R 
+### Objectives for 2025
 
+- Strengthen the shared understanding of challenges and solutions to accelerating the use of R in HTA production work
+- Drive external engagement
+
+### First Project
+
+Establish a Webinar Series to:
+
+- Promote the advantages of using R in production work
+- Highlight the momentum that is building around open source
+- Address the associated challenges
+- Engage with regulatory bodies
+
+First Webinar
+
+- April or early May
+- Proposed theme: What would it take to make a HTA submission fully in R?
+
+Tasks:
+
+- Form the organizing committee
+- Decide on format: eg. number of talks, panel discussion?
+- Recruit speakers
+- Establish a clear branding that serve the objective of WS1 
 
 ## Closing
 
