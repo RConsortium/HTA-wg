@@ -14,7 +14,7 @@ fontsize: 16pt
 -   Welcome Back! \~2 mins
 -   Update: A Session Proposal submitted to ISPOR \~3 mins
 -   Update: EU HTA Stakeholder Network Meeting (Brussel) in 2024 \~5 mins
--   Workstream 1 Proposed Activities \~40 min
+-   Workstream 1: Proposed Activities \~40 min
 -   Closing \~5 mins
 
 ## Update: A Session Proposal submitted to ISPOR
@@ -56,22 +56,22 @@ EU HTA Stakeholder Network Meeting 29th November 2024
 
 Establish a Webinar Series to:
 
-- Promote the advantages of using R in production work
+- Foster debate around the advantages of using R in HTA production work
 - Highlight the momentum that is building around open source
 - Address the associated challenges
-- Engage with regulatory bodies
+- Drive multistakeholder engagement, including with HTA bodies
 
 First Webinar
 
 - April or early May
-- Proposed theme: What would it take to make a HTA submission fully in R?
+- Proposed theme: What would it take to make an HTA submission fully in R?
 
 Tasks:
 
 - Form the organizing committee
 - Decide on format: eg. number of talks, panel discussion?
 - Recruit speakers
-- Establish a clear branding that serve the objective of WS1 
+- Establish a clear branding that serves the objective of WS1 
 
 ## Closing
 
