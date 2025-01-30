@@ -2,37 +2,37 @@
 title: "R Consortium HTA Working Group"
 subtitle: "2nd meeting, 27 November 2024"
 editor: visual
-
 ---
+
 ## Attendees
 
-* Ion Agirrezabal
-* Gregory Chen
-* Niall Davison
-* Natalie Dennis
-* Timothy Disher
-* Jack Ettinger
-* Katya Galactionova
-* loana Gulas
-* Lena Hubig
-* Inkyu Kim
-* Sven Klijn
-* Lea
-* Maria Lorenzi
-* Stephen McCawille
-* Niccolò Morgante
-* Dominic Muston
-* Jay Park
-* Anders Gorst-Rasmussen
-* Joseph Rickert
-* Rongzhe
-* Yevgeniy Samyshkin
-* Robert Smith
-* Joshua Soboil
-* Frank Weber
-* Jack Williams
-* Yinan Wul
-* Zuoyi Zhang
+-   Ion Agirrezabal
+-   Gregory Chen
+-   Niall Davison
+-   Natalie Dennis
+-   Timothy Disher
+-   Jack Ettinger
+-   Katya Galactionova
+-   loana Gulas
+-   Lena Hubig
+-   Inkyu Kim
+-   Sven Klijn
+-   Lea
+-   Maria Lorenzi
+-   Stephen McCawille
+-   Niccolò Morgante
+-   Dominic Muston
+-   Jay Park
+-   Anders Gorst-Rasmussen
+-   Joseph Rickert
+-   Rongzhe
+-   Yevgeniy Samyshkin
+-   Robert Smith
+-   Joshua Soboil
+-   Frank Weber
+-   Jack Williams
+-   Yinan Wul
+-   Zuoyi Zhang
 
 ## Meeting Recording
 
@@ -40,11 +40,11 @@ The meting was recorded and the [video](https://zoom.us/rec/play/TjVUZPiX9DyeZp1
 
 Video timeline:
 
-* 7:10 Meeting Starts - Opening remarks and news
-* 17:00 Workstream 1 - Overview and issues
-* 21:45 Open discussion - Comments from Audience
-* 48:17 Workstream 2 - Overview and issues
-* 1:00:46 Meeting ends
+-   7:10 Meeting Starts - Opening remarks and news
+-   17:00 Workstream 1 - Overview and issues
+-   21:45 Open discussion - Comments from Audience
+-   48:17 Workstream 2 - Overview and issues
+-   1:00:46 Meeting ends
 
 The next meeting will be in January 2025
 
@@ -156,12 +156,12 @@ Conference presentations and/or whitepaper(s)
 -   Commonalities among drivers or obstacles?
 
 ::: {style="font-size: 100%;"}
-| Stakeholder | Anticipated driver                                                             | Anticipated obstacle                                                                                          |
-|---------------|--------------------------|--------------------------------|
-| Pharma      | [Shape more efficient and robust analysis pipelines]{style="color:green;"}     | [Needs substantial investments with questionable return]{style="color:red;"}                                  |
-| CROs        | [Improve efficiency and consistency between clients]{style="color:green;"}     | [Increased challenges with differentiation; gained efficiencies may benefit pharma more ]{style="color:red;"} |
-| Academia    | [Push novel methodology into 'production' more easily]{style="color:green;"}   | [More contraints (new packages having to interact with standard packages) ]{style="color:red;"}               |
-| HTA bodies  | [Increase quality & consistency, reduce assessor burden]{style="color:green;"} | [Creating unwarranted or difficult-to-control precedents]{style="color:red;"}                                 |
+| Stakeholder | Anticipated driver                                                             | Anticipated obstacle                                                                                         |
+|--------------|------------------------|----------------------------------|
+| Pharma      | [Shape more efficient and robust analysis pipelines]{style="color:green;"}     | [Needs substantial investments with questionable return]{style="color:red;"}                                 |
+| CROs        | [Improve efficiency and consistency between clients]{style="color:green;"}     | [Increased challenges with differentiation; gained efficiencies may benefit pharma more]{style="color:red;"} |
+| Academia    | [Push novel methodology into 'production' more easily]{style="color:green;"}   | [More contraints (new packages having to interact with standard packages)]{style="color:red;"}               |
+| HTA bodies  | [Increase quality & consistency, reduce assessor burden]{style="color:green;"} | [Creating unwarranted or difficult-to-control precedents]{style="color:red;"}                                |
 :::
 
 ## Workstream 2: Recap
