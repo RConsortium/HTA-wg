@@ -9,11 +9,80 @@ editor: visual
 fontsize: 16pt
 ---
 
+### Attendees
+
+* Jordan Amdahl
+* Jane Candish
+* Gregory Chen
+* Folke Folkvaljon
+* Inkyu
+* Maria Lorenzi
+* Stephen McCawille
+* Dan McManus
+* Christian Haargaard Olsen
+* Anders Gorst-Rasmussen
+* Joseph Rickert
+* Roberto
+* Yevgeniy Samyshkin
+* Robert Smith
+* Karolin Struck
+* Per Wikman
+* Jack Williams
+* Songgu Xie
+* Zuoyi Zhang
+
+
+The meeting was recorded and the [video](https://zoom.us/rec/play/tLqDDKzBgSg28YjoCHZUXNTnj-K-8Ruz--DIkkgRMvpdlxmCHvc2lL8Zi10lOfbSodpkRnjxRm9cYT5V.cvmpPot5WxPjgfoP?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fzoom.us%2Frec%2Fshare%2FbZLLvneO-2trY2Y1hOKDEzyL-EI1LLOrhr74XLLRkK40Ro9egQlgEIvHWR0POvmH.AtmXTwIQwsZV_Iun) is available.
+
+The meeting starts at 4 Minutes into the video.
+
+## Meeting Highlights
+
+* A session proposal to ISPOR has been submitted (See agenda below)
+* Anders Gorst-Rasmussen EU HTA Stakeholder Network Meeting 29th November 2024 (See agenda below)
+* The WG has committed to starting a webinar series to foster debate around the advantages of using R in HTA production work (Proposal discussion starts at 14 minutes into the video)
+* A general discussion about the webinar series begins at 16 minutes into the video.
+* There was general agreement that the WG should present a vision of what a fully R-based HTA submission would look like. Showing how we could build an ecosystem where things all work together
+* We must alleviate the fear of being the first to embrace R that companies have.
+* We must map out where we are now and identify the gaps that need to be filled to get to the vision.
+* Validation of statistical code is important
+* Version control is important
+* We must make the business case for R and open source
+* The WG agreed on trying to produce the first webinar in April built around a panel discussion
+* Proposed theme for webinar: *A Vision of R in Production Level HTA*
+* The format for the first webinar will be a kick off speaker followed by a panel discussion with four participants
+* The panel discussion could be driven by four or five questions determined before hand.
+
+
+
+
+
+## Action Items
+* Describe the current capabilities. e.g.. Indirect treatment analysis naturally sits in R
+* Articulate a future vision based on R along with the pathway to achieving the vision
+* Jordan volunteered to begin a one page document about the steps necessary
+* Invite representatives from HTA regulatory bodies to the webinar series
+* Articulate the theme of the first webinar and decide on the format
+* We need to set a date in April and get going on the necessary logistics
+* Assemble the panel
+* Volunteers for the panel: Christian Haargaard Olsen, Robert Smith, Karolin Struck
+* Please communicate off-line by sharing your ideas in the discussion on the github page
+* Gregory to set up the discussion on the GitHub repository
+* Gregory and Joseph to work with R Consortium on:
+  * The webinar logistics
+  * Setting a meeting to discuss the panel for the webinar
+  
+
+
+
+
 ## Agenda
+
+This agenda was prepared before the meeting.
 
 -   Welcome Back! \~2 mins
 -   Update: A Session Proposal submitted to ISPOR \~3 mins
--   Update: EU HTA Stakeholder Network Meeting (Brussel) in 2024 \~5 mins
+-   Update: EU HTA Stakeholder Network Meeting (Brussels) in 2024 \~5 mins
 -   Workstream 1: Proposed Activities \~40 min
 -   Closing \~5 mins
 
@@ -100,7 +169,7 @@ First Webinar
 Tasks:
 
 - Form the organizing committee
-- Decide on format: eg. number of talks, panel discussion?
+- Decide on format: e.g.. number of talks, panel discussion?
 - Recruit speakers
 - Establish a clear branding that serves the objective of WS1 
 
