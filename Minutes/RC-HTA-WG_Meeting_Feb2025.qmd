@@ -1,0 +1,103 @@
+---
+title: "R Consortium HTA Working Group"
+subtitle: "4th meeting, 20 Feburary 2025"
+format:
+  revealjs: 
+    theme: simple
+    footer: "RC-HTA-WG"
+editor: visual
+fontsize: 16pt
+---
+
+## Previously...
+
+### Vision for R-based HTA Submissions
+
+The group reached a consensus on the need to articulate a comprehensive vision for what a fully R-based HTA submission would entail. The goal is to create an integrated ecosystem in which all components function cohesively. To move forward, it is crucial to address and mitigate the apprehensions that organizations may have about being early adopters of R.
+
+#### Action item
+
+-   \[!!\] Identify and describe existing capabilities, such as the use of R for indirect treatment analysis. Develop a future vision based on R, outlining the steps needed to bridge the current state to the envisioned future. **Jordan** has volunteered to draft a one-page document outlining these steps.
+
+### HTA-WG Webinar
+
+The WG agreed to organize the inaugural webinar in April, featuring a panel discussion. The proposed format includes a kick-off speaker followed by a panel of 3-4 participants. The panel discussion will be structured around four or five pre-determined questions. So far, we have volunteers from industry as panelists: Christian Haargaard Olsen, Robert Smith, Karolin Struck
+
+#### Action item
+
+-   \[Done\] Gregory to set up the discussion on the GitHub repository
+-   \[!!\] All members are encouraged to share their thoughts and contributions in the GitHub discussion thread.
+-   \[Done\] Gregory and Joseph will coordinate with the R Consortium regarding the logistical aspects of the webinar.
+-   \[!!\] Define the overarching theme of the inaugural webinar and finalize the format.
+-   \[!!\] Network and Invite representatives from HTA or regulatory bodies to the webinar series
+-   \[!!\] Schedule meeting to discuss details regarding the panel for the webinar.
+
+## Agenda
+
+This agenda was prepared before the meeting.
+
+-   Workstream 1 - ISPOR News and Left Action Items \~25 mins
+-   Workstream 2 - Initial Steps \~25 min
+-   GenAI and Closing \~5 mins
+
+## Workstream 1 - ISPOR US proposal was accepted!
+
+-   Submitted by Dominic Muston (Health Economics & Decision Sciences, MSD) as the moderator, on behalf of 3 speakers
+-   Title: Flip (To) The Script: Rethinking Health Economic Modeling for HTAs
+-   Issue (Provide a clear definition of the issue to be presented and debated): There are abundant cases of critical errors in decision-making and reporting resulting from organizations’ dependencies on spreadsheet workbooks for complex data-driven analytics. Spreadsheets easily become bloated and slow, and results often not reproducible. Nevertheless, spreadsheet modeling is highly prevalent in health economic modeling conducted for and evaluated by Pharma and HTA bodies, with accompanying risks to decision-making. Script-based languages such as R provide potential solutions, but have never had strong endorsement from HTAs, and may not yet fully address others’ needs. This panel will discuss: What issues or concerns have speakers observed in the health economic models developed or reviewed? How do we best mitigate risks in results or decision-making from spreadsheet-induced errors? Does the future lie in script-based modeling (using R or other languages)? What would it take for both HTAs and Pharma to ‘flip to script’?
+
+## Workstream 1 - Preparing 1st Webinar
+
+-   Aim: April 2025
+-   Length: 45 mins (5 mins opening, 30 min panel discussion, 10 Q&A)
+-   (Proposed) Topic: Implication of upcoming HTAR (regulation) and opportunity for R
+-   Host + 1-2 featured regulatory panelists + 2-3 industrial panelist
+-   Logistic with R Consortium \[tbd, gregory\]
+
+Remaining actions: - \[!!\] Network and Invite representatives from HTA or regulatory bodies to the webinar series - \[!!\] Schedule meeting to discuss details regarding the panel for the webinar. - \[!!\] All members are encouraged to share their thoughts and contributions in the GitHub discussion thread.
+
+## Workstream 2: Recap
+
+### Mapping of HTA Analytics Related R Packages
+
+::: columns
+::: {.column width="55%"}
+![*In open-source, usually the problem is not lack of choices - “What to choose” is the issue!*](archive_assets/RC-HTA-WG_Meeting_Oct2024_files/workstream2_gfx.png)
+:::
+
+::: {.column width="45%"}
+::: {style="font-size: 75%;"}
+### Objectives
+
+To develop a comprehensive inventory of R packages related to HTA analytics with useful information and application examples, facilitating their use and integration into daily practice
+
+### Proposed Activities
+
+-   Identify and categorize relevant HTA analytics R packages available in the open-source domain, with useful annotation
+-   Establish and apply criteria to evaluate and monitor the production readiness of identified HTA R packages
+-   Work with other initiatives (e.g. openstatsware, R for HTA consortium) to fill gaps of high-quality tools in key areas of HTA analytics
+-   Fill in gaps of document and application examples for highly production-ready HTA R packages
+-   Develop an online directory to host these work and facilitate ongoing engagement with the HTA R community
+
+### Proposed Outcomes
+
+-   A publicly accessible and user-friendly directory offering a categorized inventory of HTA analytic-related R packages with annotation, practical examples, assessment report of production readiness evaluated based on transparent criteria
+:::
+:::
+:::
+
+## Workstream 2: Initial Steps
+
+\[tbd, gregory\] WS2 in our Github discussion [here](https://github.com/RConsortium/HTA-wg/discussions/5)
+
+## Closing
+
+-   A topic on GenAI proposed by Jordan Amdahl
+
+    -   Should be we be planning for genAI playing a large role in HTA?
+    -   How will genAI differentially affect work in R vs. work in legacy HTA software (e.g. Excel, SAS, ...)? Is it a threat or an opportunity?
+    -   How do we build packages that genAI can use effectively and where work done by genAI can be efficiently checked?
+
+-   Meeting series sent for 2025 from Feb onwards: **Thursday in the 3rd week of the month, 17:00-18:00 CET**
+
+-   Next meeting: March 20, raise a topic [here](https://github.com/RConsortium/HTA-wg/discussions/3)
