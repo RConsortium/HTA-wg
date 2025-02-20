@@ -17,7 +17,7 @@ The group reached a consensus on the need to articulate a comprehensive vision f
 
 #### Action item
 
--   \[!!\] Identify and describe existing capabilities, such as the use of R for indirect treatment analysis. Develop a future vision based on R, outlining the steps needed to bridge the current state to the envisioned future. **Jordan** has volunteered to draft a one-page document outlining these steps.
+-   \[<span style="color:red;">!</span>\] Identify and describe existing capabilities, such as the use of R for indirect treatment analysis. Develop a future vision based on R, outlining the steps needed to bridge the current state to the envisioned future. **Jordan** has volunteered to draft a one-page document outlining these steps.
 
 ## Previously... (2/2)
 
@@ -27,12 +27,12 @@ The WG agreed to organize the inaugural webinar in April, featuring a panel disc
 
 #### Action item
 
--   \[Done\] Gregory to set up the discussion on the GitHub repository
--   \[!!\] All members are encouraged to share their thoughts and contributions in the GitHub discussion thread.
--   \[Done\] Gregory and Joseph will coordinate with the R Consortium regarding the logistical aspects of the webinar.
--   \[!!\] Define the overarching theme of the inaugural webinar and finalize the format.
--   \[!!\] Network and Invite representatives from HTA or regulatory bodies to the webinar series
--   \[!!\] Schedule meeting to discuss details regarding the panel for the webinar.
+-   \[<span style="color:green;">Done</span>\] Gregory to set up the discussion on the GitHub repository
+-   \[<span style="color:red;">!</span>\] All members are encouraged to share their thoughts and contributions in the GitHub discussion thread.
+-   \[<span style="color:green;">Done</span>\] Gregory and Joseph will coordinate with the R Consortium regarding the logistical aspects of the webinar.
+-   \[<span style="color:red;">!</span>\] Define the overarching theme of the inaugural webinar and finalize the format.
+-   \[<span style="color:red;">!</span>\] Network and Invite representatives from HTA or regulatory bodies to the webinar series
+-   \[<span style="color:red;">!</span>\] Schedule meeting to discuss details regarding the panel for the webinar.
 
 ## Agenda
 
@@ -61,9 +61,9 @@ This agenda was prepared before the meeting.
 
 Remaining actions: 
 
--   \[!!\] Network and Invite representatives from HTA or regulatory bodies to the webinar series 
--   \[!!\] Schedule meeting to discuss details regarding the panel for the webinar. 
--   \[!!\] All members are encouraged to share their thoughts and contributions in the GitHub discussion thread.
+-   \[<span style="color:red;">!</span>\] Network and Invite representatives from HTA or regulatory bodies to the webinar series 
+-   \[<span style="color:red;">!</span>\] Schedule meeting to discuss details regarding the panel for the webinar. 
+-   \[<span style="color:red;">!</span>\] All members are encouraged to share their thoughts and contributions in the GitHub discussion thread.
 
 ## Workstream 2: Recap
 
