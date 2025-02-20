@@ -9,7 +9,7 @@ editor: visual
 fontsize: 16pt
 ---
 
-## Previously...
+## Previously... (1/2)
 
 ### Vision for R-based HTA Submissions
 
@@ -18,6 +18,8 @@ The group reached a consensus on the need to articulate a comprehensive vision f
 #### Action item
 
 -   \[!!\] Identify and describe existing capabilities, such as the use of R for indirect treatment analysis. Develop a future vision based on R, outlining the steps needed to bridge the current state to the envisioned future. **Jordan** has volunteered to draft a one-page document outlining these steps.
+
+## Previously... (2/2)
 
 ### HTA-WG Webinar
 
@@ -38,7 +40,7 @@ This agenda was prepared before the meeting.
 
 -   Workstream 1 - ISPOR News and Left Action Items \~25 mins
 -   Workstream 2 - Initial Steps \~25 min
--   GenAI and Closing \~5 mins
+-   A propsed topic (GenAI) and Closing \~5 mins
 
 ## Workstream 1 - ISPOR US proposal was accepted!
 
@@ -52,9 +54,16 @@ This agenda was prepared before the meeting.
 -   Length: 45 mins (5 mins opening, 30 min panel discussion, 10 Q&A)
 -   (Proposed) Topic: Implication of upcoming HTAR (regulation) and opportunity for R
 -   Host + 1-2 featured regulatory panelists + 2-3 industrial panelist
--   Logistic with R Consortium \[tbd, gregory\]
+-   Logistic with R Consortium
+    + Two options: Zoom BCC (schedule ourselves) or [Webinar series](https://r-consortium.org/webinars/webinars.html) (via Jesse)
+    + Traffic capacity: Zoom BCC < 500, Webinar <1000
+    + Neither of the options can do live poll
 
-Remaining actions: - \[!!\] Network and Invite representatives from HTA or regulatory bodies to the webinar series - \[!!\] Schedule meeting to discuss details regarding the panel for the webinar. - \[!!\] All members are encouraged to share their thoughts and contributions in the GitHub discussion thread.
+Remaining actions: 
+
+-   \[!!\] Network and Invite representatives from HTA or regulatory bodies to the webinar series 
+-   \[!!\] Schedule meeting to discuss details regarding the panel for the webinar. 
+-   \[!!\] All members are encouraged to share their thoughts and contributions in the GitHub discussion thread.
 
 ## Workstream 2: Recap
 
@@ -86,9 +95,24 @@ To develop a comprehensive inventory of R packages related to HTA analytics with
 :::
 :::
 
+
 ## Workstream 2: Initial Steps
 
-\[tbd, gregory\] WS2 in our Github discussion [here](https://github.com/RConsortium/HTA-wg/discussions/5)
+### Survey: 
+- Link: [here](https://docs.google.com/forms/d/e/1FAIpQLSfkdteBsZjrTjn16r23ptehYlSNnLoRCUszW388N8zK-PzwhQ/viewform?usp=header) 
+- Finalize this survey in the meeting
+- Email will be send to WG for survey, please help to forward to your colleagues and anyone that you think this WG could benefit from their input
+
+
+### What aspects to assess production-readiness?
+
+-  Initial list: [WS2 Github discussion](https://github.com/RConsortium/HTA-wg/discussions/5)
+
+### POC
+
+-  Gregory and Robert plan to work on a POC using [Robert's example work](https://github.com/dark-peak-analytics/HEOR-package-network) (incorporates {riskmetric}) and leveraging what openstatsware has done for clinical R packages CRAN View
+-  Milestone is to present POC in April WG meeting.
+-  Anyone have enough bandwith (from now to mid-April) to join us? (Joshua?)
 
 ## Closing
 
