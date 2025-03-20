@@ -14,9 +14,9 @@ fontsize: 16pt
 
 This agenda was prepared before the meeting.
 
--   Update on Workstream 1 (20-30 mins)
+-   Update on Workstream 1 (30-40 mins)
 -   Update on Workstream 2 (10 mins)
--   General topics (20 mins)
+-   General topics (10 mins)
     - Revisit meeting length for this Joint meeting
     - Communication tool for the joint team after both workstreams launch their own meetings
 
@@ -28,7 +28,7 @@ Christian, Robert, Rose, Karolin, Natalie
 
 ## Update on Workstream 2
 
-Gregory, Robert, 
+Gregory, Robert, Stephen, more?
 
 - Survey: [Google doc link](https://docs.google.com/forms/d/e/1FAIpQLSfkdteBsZjrTjn16r23ptehYlSNnLoRCUszW388N8zK-PzwhQ/viewform?usp=header)
 - Aspects to evaluate product readiness: [Github discussion](https://github.com/RConsortium/HTA-wg/discussions/5#discussioncomment-11388114)
