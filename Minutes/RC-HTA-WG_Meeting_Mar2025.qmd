@@ -1,0 +1,45 @@
+---
+title: "R Consortium HTA Working Group"
+subtitle: "5th meeting, 20 March 2025"
+format:
+  revealjs: 
+    theme: simple
+    footer: "RC-HTA-WG"
+editor: visual
+fontsize: 16pt
+---
+
+
+## Agenda
+
+This agenda was prepared before the meeting.
+
+-   Update on Workstream 1 (20-30 mins)
+-   Update on Workstream 2 (10 mins)
+-   General topics (20 mins)
+    - Revisit meeting length for this Joint meeting
+    - Communication tool for the joint team after both workstreams launch their own meetings
+
+## Update on Workstream 1 
+
+Christian, Robert, Rose, Karolin, Natalie 
+
+[WS-1: Webinar](https://github.com/RConsortium/HTA-wg/discussions/7)
+
+## Update on Workstream 2
+
+Gregory, Robert, 
+
+- Survey: [Google doc link](https://docs.google.com/forms/d/e/1FAIpQLSfkdteBsZjrTjn16r23ptehYlSNnLoRCUszW388N8zK-PzwhQ/viewform?usp=header)
+- Aspects to evaluate product readiness: [Github discussion](https://github.com/RConsortium/HTA-wg/discussions/5#discussioncomment-11388114)
+   - openstatsware suggestion: [Webpage](https://www.openstatsware.org/guide.html)
+- Initial list of R pkgs for POC: [Github discussion](https://github.com/RConsortium/HTA-wg/discussions/8) 
+- Reach out to contacts from Submission WG, explore their feedback on the assessment criteria 
+
+## General topics (20 mins)
+
+- Monthly Joint Meeting, change length to 30 mins? considering each workstream can break off now 
+- How to share progress in the time being?
+- Next Meeting: now April 17, 17:00 CET/ 9:00 PST / 12:00 EST 
+
+

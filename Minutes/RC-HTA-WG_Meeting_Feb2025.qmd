@@ -38,21 +38,25 @@ The WG agreed to organize the inaugural webinar in April, featuring a panel disc
 
 This agenda was prepared before the meeting.
 
--   Workstream 1 - ISPOR News and Left Action Items \~25 mins
--   Workstream 2 - Initial Steps \~25 min
+-   Workstream 1 - ISPOR News and Left Action Items \~20 mins
+-   Workstream 2 - Initial Steps \~20 min
 -   A propsed topic (GenAI) and Closing \~5 mins
 
 ## Workstream 1 - ISPOR US proposal was accepted!
 
 -   Submitted by Dominic Muston (Health Economics & Decision Sciences, MSD) as the moderator, on behalf of 3 speakers
 -   Title: Flip (To) The Script: Rethinking Health Economic Modeling for HTAs
+-   Link: [here](https://www.ispor.org/conferences-education/conferences/upcoming-conferences/ispor-2025/program/program/session/ispor-2025/flip-to-the-script-is-it-time-to-rethink-health-economic-modeling-for-htas)
 -   Issue (Provide a clear definition of the issue to be presented and debated): There are abundant cases of critical errors in decision-making and reporting resulting from organizations’ dependencies on spreadsheet workbooks for complex data-driven analytics. Spreadsheets easily become bloated and slow, and results often not reproducible. Nevertheless, spreadsheet modeling is highly prevalent in health economic modeling conducted for and evaluated by Pharma and HTA bodies, with accompanying risks to decision-making. Script-based languages such as R provide potential solutions, but have never had strong endorsement from HTAs, and may not yet fully address others’ needs. This panel will discuss: What issues or concerns have speakers observed in the health economic models developed or reviewed? How do we best mitigate risks in results or decision-making from spreadsheet-induced errors? Does the future lie in script-based modeling (using R or other languages)? What would it take for both HTAs and Pharma to ‘flip to script’?
 
 ## Workstream 1 - Preparing 1st Webinar
 
 -   Aim: April 2025
 -   Length: 45 mins (5 mins opening, 30 min panel discussion, 10 Q&A)
--   (Proposed) Topic: Implication of upcoming HTAR (regulation) and opportunity for R
+-   (Proposed) Topic: Dry run for ISPOR panel discussion 
+-   Backup topics: 
+    +  Implication of upcoming HTAR (regulation) and opportunity for R
+    +  Only industrial panelists, discuss how we can approach use R effectively and efficiently for HTA submission
 -   Host + 1-2 featured regulatory panelists + 2-3 industrial panelist
 -   Logistic with R Consortium
     + Two options: Zoom BCC (schedule ourselves) or [Webinar series](https://r-consortium.org/webinars/webinars.html) (via Jesse)
