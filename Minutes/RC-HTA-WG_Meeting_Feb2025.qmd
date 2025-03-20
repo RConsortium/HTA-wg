@@ -9,6 +9,27 @@ editor: visual
 fontsize: 16pt
 ---
 
+## Attendees
+
+* Jordan Amdahl
+* Gregory Chen (MSD)
+* Natalie Dennis
+* Ram Gaduputi
+* Rajesh Koya
+* Dominic Muston
+* Christian Haargaard Olsen
+* Rebecca Metcalfe
+* Stephen Mc Cawille
+* Nguyen Phan Thuy Nhien
+* Jay Park
+* Joseph Rickert
+* Robert Smith
+* Karolin Struck
+* Shuai Wu
+* Songgu Xie (Regeneron Pharmaceuticals, Inc.)
+
+The meeting was recorded and the [video](https://zoom.us/rec/play/kPj8DbzqCX-qD1unhQqN09JUkmHLMcv42-Miat0_pjOH5ApUQ97MovnPyFQNPtLf-bHRj8-Vf3w-of_W.jowh62xYy1eafiCY?accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fzoom.us%2Frec%2Fshare%2FITUMIZ9lacR6Tx26tV4rqht3bDooBhF1DXZHR-JMnqpYfVGAz_CYykSdrrIUeRZf.G_eUGjaZs2N5imz9) is available.
+
 ## Previously... (1/2)
 
 ### Vision for R-based HTA Submissions
@@ -17,7 +38,7 @@ The group reached a consensus on the need to articulate a comprehensive vision f
 
 #### Action item
 
--   \[<span style="color:red;">!</span>\] Identify and describe existing capabilities, such as the use of R for indirect treatment analysis. Develop a future vision based on R, outlining the steps needed to bridge the current state to the envisioned future. **Jordan** has volunteered to draft a one-page document outlining these steps.
+-   \[[!]{style="color:red;"}\] Identify and describe existing capabilities, such as the use of R for indirect treatment analysis. Develop a future vision based on R, outlining the steps needed to bridge the current state to the envisioned future. **Jordan** has volunteered to draft a one-page document outlining these steps.
 
 ## Previously... (2/2)
 
@@ -27,12 +48,12 @@ The WG agreed to organize the inaugural webinar in April, featuring a panel disc
 
 #### Action item
 
--   \[<span style="color:green;">Done</span>\] Gregory to set up the discussion on the GitHub repository
--   \[<span style="color:red;">!</span>\] All members are encouraged to share their thoughts and contributions in the GitHub discussion thread.
--   \[<span style="color:green;">Done</span>\] Gregory and Joseph will coordinate with the R Consortium regarding the logistical aspects of the webinar.
--   \[<span style="color:red;">!</span>\] Define the overarching theme of the inaugural webinar and finalize the format.
--   \[<span style="color:red;">!</span>\] Network and Invite representatives from HTA or regulatory bodies to the webinar series
--   \[<span style="color:red;">!</span>\] Schedule meeting to discuss details regarding the panel for the webinar.
+-   \[[Done]{style="color:green;"}\] Gregory to set up the discussion on the GitHub repository
+-   \[[!]{style="color:red;"}\] All members are encouraged to share their thoughts and contributions in the GitHub discussion thread.
+-   \[[Done]{style="color:green;"}\] Gregory and Joseph will coordinate with the R Consortium regarding the logistical aspects of the webinar.
+-   \[[!]{style="color:red;"}\] Define the overarching theme of the inaugural webinar and finalize the format.
+-   \[[!]{style="color:red;"}\] Network and Invite representatives from HTA or regulatory bodies to the webinar series
+-   \[[!]{style="color:red;"}\] Schedule meeting to discuss details regarding the panel for the webinar.
 
 ## Agenda
 
@@ -59,26 +80,26 @@ This agenda was prepared before the meeting.
     +  Only industrial panelists, discuss how we can approach use R effectively and efficiently for HTA submission
 -   Host + 1-2 featured regulatory panelists + 2-3 industrial panelist
 -   Logistic with R Consortium
-    + Two options: Zoom BCC (schedule ourselves) or [Webinar series](https://r-consortium.org/webinars/webinars.html) (via Jesse)
-    + Traffic capacity: Zoom BCC < 500, Webinar <1000
-    + Neither of the options can do live poll
+    -   Two options: Zoom BCC (schedule ourselves) or [Webinar series](https://r-consortium.org/webinars/webinars.html) (via Jesse)
+    -   Traffic capacity: Zoom BCC \< 500, Webinar \<1000
+    -   Neither of the options can do live poll
 
-Remaining actions: 
+Remaining actions:
 
--   \[<span style="color:red;">!</span>\] Network and Invite representatives from HTA or regulatory bodies to the webinar series 
--   \[<span style="color:red;">!</span>\] Schedule meeting to discuss details regarding the panel for the webinar. 
--   \[<span style="color:red;">!</span>\] All members are encouraged to share their thoughts and contributions in the GitHub discussion thread.
+-   \[[!]{style="color:red;"}\] Network and Invite representatives from HTA or regulatory bodies to the webinar series
+-   \[[!]{style="color:red;"}\] Schedule meeting to discuss details regarding the panel for the webinar.
+-   \[[!]{style="color:red;"}\] All members are encouraged to share their thoughts and contributions in the GitHub discussion thread.
 
 ## Workstream 2: Recap
 
 ### Mapping of HTA Analytics Related R Packages
 
-::: columns
+:::::: columns
 ::: {.column width="55%"}
 ![*In open-source, usually the problem is not lack of choices - “What to choose” is the issue!*](archive_assets/RC-HTA-WG_Meeting_Oct2024_files/workstream2_gfx.png)
 :::
 
-::: {.column width="45%"}
+:::: {.column width="45%"}
 ::: {style="font-size: 75%;"}
 ### Objectives
 
@@ -96,27 +117,26 @@ To develop a comprehensive inventory of R packages related to HTA analytics with
 
 -   A publicly accessible and user-friendly directory offering a categorized inventory of HTA analytic-related R packages with annotation, practical examples, assessment report of production readiness evaluated based on transparent criteria
 :::
-:::
-:::
-
+::::
+::::::
 
 ## Workstream 2: Initial Steps
 
-### Survey: 
-- Link: [here](https://docs.google.com/forms/d/e/1FAIpQLSfkdteBsZjrTjn16r23ptehYlSNnLoRCUszW388N8zK-PzwhQ/viewform?usp=header) 
-- Finalize this survey in the meeting
-- Email will be send to WG for survey, please help to forward to your colleagues and anyone that you think this WG could benefit from their input
+### Survey:
 
+-   Link: [here](https://docs.google.com/forms/d/e/1FAIpQLSfkdteBsZjrTjn16r23ptehYlSNnLoRCUszW388N8zK-PzwhQ/viewform?usp=header)
+-   Finalize this survey in the meeting
+-   Email will be send to WG for survey, please help to forward to your colleagues and anyone that you think this WG could benefit from their input
 
 ### What aspects to assess production-readiness?
 
--  Initial list: [WS2 Github discussion](https://github.com/RConsortium/HTA-wg/discussions/5)
+-   Initial list: [WS2 Github discussion](https://github.com/RConsortium/HTA-wg/discussions/5)
 
 ### POC
 
--  Gregory and Robert plan to work on a POC using [Robert's example work](https://github.com/dark-peak-analytics/HEOR-package-network) (incorporates {riskmetric}) and leveraging what openstatsware has done for clinical R packages CRAN View
--  Milestone is to present POC in April WG meeting.
--  Anyone have enough bandwith (from now to mid-April) to join us? (Joshua?)
+-   Gregory and Robert plan to work on a POC using [Robert's example work](https://github.com/dark-peak-analytics/HEOR-package-network) (incorporates {riskmetric}) and leveraging what openstatsware has done for clinical R packages CRAN View
+-   Milestone is to present POC in April WG meeting.
+-   Anyone have enough bandwith (from now to mid-April) to join us? (Joshua?)
 
 ## Closing
 
