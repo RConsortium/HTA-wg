@@ -13,11 +13,11 @@ fontsize: 16pt
 
 This agenda was prepared before the meeting.
 
--   Update on Workstream 1 (20 mins)
--   Update on Workstream 2 (15 mins)
--   General topics (25 mins)
-    -   Update on potential presentation on R for HTA 
-    -   Prepare submission for ISPOR EU 
+-   Update on Workstream 1 (30 mins)
+-   Update on Workstream 2 (10 mins)
+-   General topics (20 mins)
+    -   Update on potential presentation on R for HTA
+    -   Prepare submission for ISPOR EU
 
 ## Update on Workstream 1
 
@@ -40,20 +40,26 @@ Gregory, Robert, Stephen, Jay?
 ### Title: Enhancing Cooperation Between Clinical Evidence Generation and Economic Modeling in HTA: How R Can Help
 
 Health Technology Assessment (HTA) decisions in many jurisdictions require robust clinical evidence - typically from clinical trial data reassessment and/or indirect treatment comparisons (ITC) based on clinical systematic literature review or versus real world external control - alongside with economic modeling. However, the required clinical evidence for HTA is often not fully contained within clinical study reports (CSRs). This session will begin by examining representative examples of analyses involving clinical data that serve different HTA purposes: some primarily support clinical value propositions, others directly inform economic models, while some serve both functions.
- 
-We will then highlight how R offers competitive advantages in enhancing interoperability between evidence synthesis and analysis needed for both clinical value propositions and for economic modeling, particularly in:  
-1. Handling Complex Data Structures and disparate sources
-2. Preliminary Analysis & Visualization for feasibility assessment, planning analyses and interpreting results,  
-3. Efficient Implementation of necessary (complex) methods with appropriate setup,  
-4. Transferring Synthesized Evidence into economic models, and  
-5. Ensuring Transparency, Quality, Reproducibility, and Sustainability throughout the process.  
- 
+
+We will then highlight how R offers competitive advantages in enhancing interoperability between evidence synthesis and analysis needed for both clinical value propositions and for economic modeling, particularly in:\
+1. Handling Complex Data Structures and disparate sources 2. Preliminary Analysis & Visualization for feasibility assessment, planning analyses and interpreting results,\
+3. Efficient Implementation of necessary (complex) methods with appropriate setup,\
+4. Transferring Synthesized Evidence into economic models, and\
+5. Ensuring Transparency, Quality, Reproducibility, and Sustainability throughout the process.
+
 Despite these strengths, key bottlenecks persist in broadening the R adoption for both clinical evidence synthesis and economic modeling. The second part of the session would explore these key bottlenecks, showcasing key open-source collaborative efforts, and discussing how they collectively address these challenges to advance HTA practices.
 
 ## General topics: Prepare submission for ISPOR EU
 
-Extend from PSI presentation on ITC to a session proposal?
+- Extend from PSI presentation on ITC to a session proposal?
+
+- automating technical reports using R and Quarto or Rmarkdown for ISPOR EU, frame around JCA (idea for a workshop for industry and academia)
+
+- what could help with R adoption
+
+
 
 ## General topics
+
 -   Any other topics?
--   Next Meeting: now May 22 (reschedule from May 15?), 17:00 CET/ 9:00 PST / 12:00 EST
+-   Next Meeting:  May 22 (reschedule from May 15?), 17:00 CET/ 9:00 PST / 12:00 EST
