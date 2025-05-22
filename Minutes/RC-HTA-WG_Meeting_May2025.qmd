@@ -1,0 +1,30 @@
+---
+title: "R Consortium HTA Working Group"
+subtitle: "7th meeting, 22 May 2025"
+format:
+  revealjs: 
+    theme: simple
+    footer: "RC-HTA-WG"
+editor: visual
+fontsize: 16pt
+---
+
+## Agenda
+
+This agenda was prepared before the meeting.
+
+-   Recap on ISPOR (Dominic, Robert)
+-   Workstream 1- June Webinar (Christian, Robert, Rose, Karolin, Natalie)
+    -   Need following info to finalize the logistic: 
+-   New Webinar (Bayesian Cost-Effectiveness Analysis), proposed by Robert Horton, John Mount, and Joseph Rickert
+
+
+U.K. statisticians working in Health Technology Assessment have long been [champions](https://pubmed.ncbi.nlm.nih.gov/11134920/) of Bayesian statistical methods and pioneered the use of Bayesian methods to estimate transition probabilities in multistate models. In this webinar, we will replicate an example presented in the classic monograph *Evidence Synthesis for Decision Making in Healthcare*  by [Welton et al. (2012)](https://bcs.wiley.com/he-bcs/Books?action=index&bcsId=7268&itemId=047006109X).
+
+We believe that the model and Bayesian solution remain relevant to current work in Health Technology Assessment and illuminate the power of Bayesian techniques to inform cost-effectiveness decisions by feeding the posterior distributions resulting from clinical models directly into the decision process.
+
+
+We will work through the WinBugs code developed by Welton et al., written in the BUGS language, using the [JAGS](https://mcmc-jags.sourceforge.io/) Gibbs sampler which also runs the BUGS language. Attendees should gain a basic understanding of how to use Bayesian models to perform cost-effectiveness analyses driven by multi-state models and JAGS in their own work. Time permitting we will also discuss porting the models to [Stan](https://mc-stan.org/).
+
+
+-   Next Meeting: June 19, 17:00 CET/ 9:00 PST / 12:00 EST
