@@ -1,0 +1,36 @@
+---
+title: "R Consortium HTA Working Group"
+subtitle: "8th meeting, 19 June 2025"
+format:
+  revealjs: 
+    theme: simple
+    footer: "RC-HTA-WG"
+editor: visual
+fontsize: 16pt
+---
+
+## Agenda
+
+This agenda was prepared before the meeting.
+
+-	Workstream 1 update from Christian that is now broadcast on social media
+
+    - Main page: [https://r-consortium.org/webinars/r-for-health-technology-assessment-identifying-needs-streamlining-processes-and-building-bridges.html](https://r-consortium.org/webinars/r-for-health-technology-assessment-identifying-needs-streamlining-processes-and-building-bridges.html)
+
+    - Socials:
+    - [https://www.linkedin.com/feed/update/urn:li:activity:7340428586878713858/](https://www.linkedin.com/feed/update/urn:li:activity:7340428586878713858/)
+    - [https://fosstodon.org/@RConsortium/114694211919366239](https://fosstodon.org/@RConsortium/114694211919366239)
+    - [https://x.com/RConsortium/status/1934664538290573421](https://x.com/RConsortium/status/1934664538290573421)
+    - [https://www.reddit.com/r/rstats/comments/1lcz22t/r_consortium_working_group_webinar_r_for_health/?](https://www.reddit.com/r/rstats/comments/1lcz22t/r_consortium_working_group_webinar_r_for_health/?)
+    - [https://www.reddit.com/r/rprogramming/comments/1lcz2f2/r_consortium_working_group_webinar_r_for_health/?](https://www.reddit.com/r/rprogramming/comments/1lcz2f2/r_consortium_working_group_webinar_r_for_health/?)
+
+
+-	2 panel discussion where this WG was broadcast in the meeting 
+    - Youtube link to R4HTA workshop session [https://www.youtube.com/watch?v=jpfWLgsfTLM&t=1255s](https://www.youtube.com/watch?v=jpfWLgsfTLM&t=1255s)
+- Is there R guideline from HTA bodies
+    - Mostly from NICE, UK if search from internet
+    - ZIN: [Guideline for building cost-effectiveness models in R | National Health Care Institute](https://english.zorginstituutnederland.nl/documents/2022/12/15/guideline-for-building-cost-effectiveness-models-in-r)
+    - [Book from R4HTA](https://www.taylorfrancis.com/books/edit/10.1201/9781003031819/health-technology-assessment-gianluca-baio-howard-thom-petros-pechlivanoglou)
+- Providing easy-to-consume marketing material for WG members to help promoting R adoption in HTA space (to follow up in future meetings)
+- Any other topics?
+
