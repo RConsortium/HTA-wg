@@ -1,0 +1,426 @@
+---
+title: "Reflect and Restart"
+subtitle: "HTA Working Group Monthly Meeting"
+author: "R Consortium"
+date: "August 28, 2025"
+format:
+  revealjs:
+    theme: default
+    slide-number: true
+    footer: "HTA WG - Building the Future of R in Health Technology Assessment"
+    transition: slide
+    navigation-mode: vertical
+    controls: true
+    progress: true
+    center: false
+    incremental: false
+    fontsize: 28px
+    width: 1400
+    height: 900
+    margin: 0.05
+    title-slide-attributes:
+      data-background-size: contain
+    css: |
+      .reveal h1 { font-size: 1.8em; margin-bottom: 0.5em; }
+      .reveal h2 { font-size: 1.4em; margin-bottom: 0.4em; margin-top: 0.5em; }
+      .reveal h3 { font-size: 1.1em; margin-bottom: 0.3em; margin-top: 0.4em; }
+      .reveal p, .reveal li { font-size: 0.9em; line-height: 1.4; }
+      .reveal .slide-content { padding-top: 1em; }
+      .smaller { font-size: 0.85em; }
+      .highlight { background-color: #ffffcc; padding: 2px 4px; }
+---
+
+## Welcome Back from Summer! ☀️🏖️
+
+### Still in vacation mode? Perfect timing!
+
+Today's theme **"Reflect and Restart"** is designed for our post-vacation energy:
+
+- 🍹 **Reflect** - Look back at our journey (like flipping through vacation photos)
+- 🔋 **Recharge** - Channel that fresh energy into new initiatives  
+- 🚀 **Restart** - Launch into autumn with renewed focus
+
+*Let's ease back into work mode together...*
+
+---
+
+## Agenda
+
+1. **Reflection on Progress** - WS1 & WS2 achievements
+2. **Emerging Opportunities** - New initiatives from community discussions
+3. **WS2 Deep Dive** - Roadmap, milestones, and modular tasks
+4. **Call to Action** - Join parallel workstreams
+
+---
+
+## Our Journey So Far
+
+### October 2024 → August 2025
+
+- **Community stabilized** at 20-40 active participants per meeting
+- **Two workstreams** established and evolving
+- **Active webinar series** presenting industry perspectives
+- **Public visibility** via R Consortium's Channels and 2 conference in 2025
+
+---
+
+## Working Stream 1: Achievements
+
+### ✅ What We've Accomplished
+
+- **Launched webinar series**: [Identifying Needs, Streamlining Processes, and Building Bridges](https://r-consortium.org/webinars/r-for-health-technology-assessment-identifying-needs-streamlining-processes-and-building-bridges.html)
+- **Attracted attention** at R for HTA workshop and PSI 2025
+- **Identified key challenges** in HTA R adoption through stakeholder feedback
+
+### 🎯 In Progress
+
+- **Future webinar series** - Economic modeling focus planned for upcoming sessions
+
+---
+
+## Working Stream 2: Progress Update
+
+### ✅ Initial Foundations
+
+- **Defined assessment aspects** with input from OpenStatsWare and cross-industry initiatives
+- **Created framework** for R package inventory across three dimensions:
+  - Software Engineering (SWE) aspects
+  - Scientific validity aspects  
+  - Adoption readiness aspects
+
+### ⚠️ Challenge Identified
+
+- Vision/end-goal was clear but **roadmap not plotted** into milestones and tasks
+- Need for **modular, parallel workstreams** to accelerate progress
+- **Survey response** for HTA analytic R packages remains slow
+
+---
+
+## Emerging Opportunities
+
+### 1. Common Data Model for HTA
+
+**Vision**: Standardization beyond outputs
+
+- Tables, figures, and listings (TFLs)
+- **Aggregated data structures** for meta-analyses
+- Dynamic visualizations via Shiny apps
+- Reusable downstream solutions
+
+### 2. WG Website Development
+
+**Purpose**: Central hub for resources, documentation, and community engagement
+
+---
+
+## Priority Initiatives for Collective Action
+
+### Breaking into Manageable Parallel Streams
+
+1. **Webinar Series Continuation** - Industry case studies
+2. **Common Data Model Development** - TFLs and aggregated data
+3. **WS2 Package Inventory Implementation** - Assessment and curation
+4. **Website & Communications** - Community hub development
+5. **Pilot Projects** - Real-world validation with HTA bodies
+
+*We need volunteers to lead and contribute to each stream!*
+
+---
+
+# Working Stream 2: Deep Dive {.section}
+
+## Building a Trusted R Package Ecosystem for HTA
+
+---
+
+## WS2 Mission & Objectives
+
+### As stated in GitHub Discussion #5:
+
+**Mission**: Create a curated, validated inventory of R packages for HTA analytics
+
+**Objectives**:
+- Establish transparent assessment criteria
+- Build searchable package repository
+- Provide validation documentation
+- Enable community contributions
+
+### Why This Matters:
+- **HTA-Body confidence** in R-based submissions
+- **Reduced duplication** of validation efforts
+- **Accelerated adoption** through shared resources
+- **Quality assurance** through community review
+
+---
+
+## Assessment Framework: Three Dimensions
+
+Based on cross-industry input (OpenStatsWare, R Validation Hub):
+
+### 1. Software Engineering (SWE) Aspects
+### 2. Scientific Validity Aspects  
+### 3. Adoption Readiness Aspects
+
+Each dimension includes both **automated** and **manual** assessment components
+
+---
+
+## SWE Aspects: Technical Quality
+
+### 🤖 Automated Assessment
+- **Code coverage** metrics (>80% target)
+- **Documentation** completeness (roxygen2, vignettes)
+- **Dependencies** analysis and version tracking
+- **CI/CD** pipeline status
+- **CRAN checks** passing status
+
+### 👥 Manual Review Required
+- **Code architecture** quality and design patterns
+- **Security** vulnerability assessment
+- **Performance** benchmarking for large datasets
+- **Error handling** robustness
+
+---
+
+## Scientific Aspects: Method Validity
+
+### 🤖 Automated Assessment
+- **Test cases** against known results
+- **Reference implementations** comparison
+- **Numerical stability** checks
+
+### 👥 Manual Review Required  
+- **Statistical methodology** correctness
+- **Alignment with HTA guidelines** (NICE, IQWiG, HAS)
+- **Clinical relevance** of outputs
+- **Peer review** by domain experts (minimum 2 reviewers)
+
+---
+
+## Adoption Aspects: Production Readiness
+
+### 🤖 Automated Assessment
+- **Download statistics** from CRAN/GitHub
+- **Issue tracker** activity and response times
+- **Update frequency** and maintenance status
+- **Reverse dependencies** count
+
+### 👥 Manual Review Required
+- **Use cases** in actual HTA submissions
+- **User community** feedback and support
+- **Training materials** availability
+- **Integration** with existing workflows
+
+---
+
+## WS2 Roadmap: Step-by-Step Approach
+
+### Phase 1: Foundation ✅ (Completed)
+- Assessment criteria defined
+- Initial package list compiled
+- Framework documented
+
+### Phase 2: Implementation 🚧 (Current - Q4 2025)
+- POC package assessments
+- Database infrastructure
+- Web interface development
+
+### Phase 3: Operationalization 📅 (Qx 2026+)
+- Public launch
+- Community adoption
+- Continuous improvement
+
+---
+
+## Phase 2 Detailed: Current Focus (Draft Proposal)
+
+### Milestone 2.1: POC Package Assessment (Q3 2025)
+- Select 5-10 representative packages across HTA domains:
+  - Survival analysis (e.g., `flexsurv`, `survminer`)
+  - Economic modeling (e.g., `heemod`, `BCEA`)
+  - Evidence synthesis (e.g., `metafor`, `gemtc`)
+- Document assessment process
+- Refine criteria based on experience
+- Publish version 0.1.0 of our assessment criteria and approaches
+
+### Milestone 2.2: Technical Infrastructure (Q4 2025)
+- Database schema implementation
+- API for package submission
+- Web interface inspired by [awesomepython.org](https://www.awesomepython.org/)
+
+---
+
+## WS2 Task Breakdown: Stream A (Draft Proposal)
+
+### Package Assessment Team
+
+**Skills Needed**: R expertise, HTA domain knowledge, validation experience
+
+**Key Tasks**:
+- Refine assessment rubrics for three dimensions
+- Conduct POC package reviews
+- Document validation reports
+- **Collaborate with**: R Validation Hub, OpenStatsWare
+
+**Q4 2025 Deliverables**:
+- 5-10 package assessment reports
+- Refined criteria documentation
+- Best practices guide
+
+---
+
+## WS2 Task Breakdown: Stream B (Draft Proposal)
+
+### Technical Infrastructure Team
+
+**Skills Needed**: Database design, web development, DevOps
+
+**Key Tasks**:
+- Design scalable database schema
+- Build submission portal with GitHub integration
+- Develop search interface (inspired by awesomepython.org)
+- Implement automated assessment pipeline
+
+**Q4 2025 Deliverables**:
+- Database prototype with API
+- Beta web interface
+- Automated testing framework
+
+---
+
+## WS2 Task Breakdown: Stream C (Draft Proposal)
+
+### Documentation & Training Team
+
+**Skills Needed**: Technical writing, instructional design
+
+**Key Tasks**:
+- Create package submission guidelines
+- Develop assessment training materials
+- Write validation documentation templates
+- Produce case studies from POC assessments
+
+**Q4 2025 Deliverables**:
+- Submission guide
+- Reviewer training program
+- Template library
+
+---
+
+## WS2 Task Breakdown: Stream D (Draft Proposal)
+
+### Community & Partnerships Team
+
+**Skills Needed**: Stakeholder engagement, HTA relationships
+
+**Key Tasks**:
+- Engage HTA bodies for pilot projects
+- Recruit package maintainers
+- Coordinate with related initiatives
+- Plan launch campaign
+
+**Q4 2025 Deliverables**:
+- 2+ HTA body partnerships
+- Package maintainer network
+- Communication strategy
+
+---
+
+## Enhanced Package Assessment Card Example
+
+### Package: `flexsurv` v2.2.2
+**Category**: Survival Analysis | **Status**: Production Ready ✅
+
+::: {.smaller}
+| Dimension | Component | Score | Assessment Type |
+|-----------|-----------|-------|-----------------|
+| **SWE** | Code Coverage | 92% | 🤖 Automated |
+| | Documentation | Complete | 🤖 Automated |
+| | Architecture | Excellent | 👥 Manual Review |
+| **Scientific** | Method Validity | Verified | 👥 2 Expert Reviews |
+| | HTA Alignment | NICE/IQWiG | 👥 Manual Review |
+| | Test Accuracy | 100% Pass | 🤖 Automated |
+| **Adoption** | Downloads/month | 45,000 | 🤖 Automated |
+| | HTA Submissions | 15+ documented | 👥 Case Studies |
+| | Support | Active community | 🤖 GitHub metrics |
+
+**Overall Risk Score**: Low (8.7/10) | **Last Assessment**: Aug 2025
+:::
+
+---
+
+## Package Submission Process
+
+```{mermaid}
+%%{init: {'theme':'base', 'themeVariables': { 'fontSize': '16px'}}}%%
+flowchart LR
+    A[Community<br/>Submission] --> B{HTA<br/>Relevant?}
+    B -->|Yes| C[Automated<br/>Assessment]
+    B -->|No| D[Declined]
+    C --> E[Manual<br/>Review]
+    E --> F{Quality<br/>Tier}
+    F -->|High| G[Validated]
+    F -->|Medium| H[Under Review]
+    F -->|Low| I[Community]
+    G --> J[Public<br/>Inventory]
+    H --> J
+    I --> J
+```
+
+---
+
+## Web Interface Vision
+
+### Inspired by [awesomepython.org](https://www.awesomepython.org/)
+
+**Key Features**:
+
+- **Category browsing**: Clinical, Economic, Meta-analysis, Visualization
+- **Smart filters**: Risk level, validation status, HTA body endorsement
+- **Package cards**: Visual risk indicators, key metrics, quick links
+- **Use case library**: Real submission examples with code
+- **Integration guides**: Workflow combinations and best practices
+
+---
+
+## Call to Action
+
+### How to Contribute
+
+1. **Review the roadmap** and identify where you can help
+2. **Join a workstream** that matches your expertise:
+   - Stream A: Assessment (validation experience)
+   - Stream B: Technical (development skills)
+   - Stream C: Documentation (writing skills)
+   - Stream D: Partnerships (networking skills)
+
+3. **Next steps**:
+   - Sign up via GitHub Discussion
+   - Stream to self-coordinate
+   - Contribute to POC assessments
+
+---
+
+## Looking Ahead
+
+### Q4 2025 Targets
+
+✓ Complete POC assessments (5-10 packages)  
+✓ Launch beta web interface  
+✓ Publish assessment criteria and approaches  
+✓ Publish 3+ webinars 
+
+### Q1 2026 Vision
+
+🎯 Public launch of HTA R Package Inventory  
+🎯 50+ packages assessed  
+🎯 Active community of contributors
+🎯 Establish 2+ HTA body partnerships  
+🎯 Host community workshop at R/Pharma
+
+**Together, we're building the future of R in HTA**
+
+---
+
+## Thank You!
+
